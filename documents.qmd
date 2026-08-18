@@ -3,7 +3,6 @@ title: "发布文件"
 lang: zh-CN
 ---
 
-<div class="lang-switch"><a href="en/documents.html">English</a></div>
 
 本栏目集中发布网络及研究的关键文件：研究方案、统计分析计划（SAP）、中期报告与发表文献。文件均经指导委员会审核后发布，公开可查证。
 

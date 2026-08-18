@@ -3,7 +3,6 @@ title: "联系我们"
 lang: zh-CN
 ---
 
-<div class="lang-switch"><a href="en/contact.html">English</a></div>
 
 ## 通讯作者
 

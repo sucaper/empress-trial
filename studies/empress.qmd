@@ -3,7 +3,6 @@ title: "EMPRESS 研究"
 lang: zh-CN
 ---
 
-<div class="lang-switch"><a href="en/studies/empress.html">English</a></div>
 
 <div class="hero hero-sm">
   <h1 class="hero-title">EMPRESS 研究</h1>

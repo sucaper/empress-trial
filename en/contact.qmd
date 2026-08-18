@@ -3,7 +3,6 @@ title: "Contact"
 lang: en
 ---
 
-<div class="lang-switch"><a href="../contact.html">中文</a></div>
 
 ## Corresponding Authors
 

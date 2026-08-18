@@ -3,8 +3,6 @@ title: "Governance"
 lang: en
 ---
 
-<div class="lang-switch"><a href="../governance.html">中文</a></div>
-
 The EMPRESS Research Network is governed by three bodies &mdash; the Steering Committee, the Coordinating Committee, and the Data Safety Monitoring Board (DSMB) &mdash; supported by a project manager. The roles are clearly defined and mutually balanced to safeguard scientific integrity and participant safety.
 
 ## Steering Committee {#steering}
@@ -32,6 +30,22 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 | Miguel Ibarra-Estrada | Mexico &middot; Universidad de Guadalajara |
 | Eduardo Kattan | Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile |
 
+**Member profiles**
+
+<ul class="bio-list">
+  <li><span class="bio-name">Xiaobo Huang</span> Director, Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital; long-standing clinical and research leader in critical care, involved in multicenter studies on severe infection and hemodynamics.</li>
+  <li><span class="bio-name">Chun Pan</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; core member of the EMPRESS team focusing on severe infection and septic shock.</li>
+  <li><span class="bio-name">Jingchao Luo</span> Young investigator, Department of Critical Care Medicine, Sichuan Provincial People's Hospital; co-first author of the EMPRESS protocol; involved in septic shock research (e.g., recombinant human brain natriuretic peptide protocol, BMJ Open 2026).</li>
+  <li><span class="bio-name">Mei Meng</span> Attending/consultant physician, Department of Intensive Care Medicine, Shanghai Ninth People's Hospital; corresponding author of the EMPRESS protocol.</li>
+  <li><span class="bio-name">Yongpo Jiang</span> Taizhou Hospital, Zhejiang Province; domestic Steering Committee member (limited public academic record).</li>
+  <li><span class="bio-name">Xi Guo</span> Qilu Third Hospital, Shandong; domestic Steering Committee member (limited public academic record).</li>
+  <li><span class="bio-name">Minghao Luo</span> Nuffield Department of Population Health, University of Oxford, and Department of Anaesthetic and Critical Care, Harefield Hospital (Guy's and St Thomas' NHS Foundation Trust), UK; co-first author of the EMPRESS protocol.</li>
+  <li><span class="bio-name">Jean-Louis Teboul</span> Professor of intensive care medicine, Universit&eacute; Paris-Saclay (H&ocirc;pital de Bic&ecirc;tre), France; international authority on hemodynamic monitoring and septic shock resuscitation; long-standing collaborator in the ANDROMEDA-SHOCK studies.</li>
+  <li><span class="bio-name">Glenn Hern&aacute;ndez</span> Professor of intensive care medicine, Pontificia Universidad Cat&oacute;lica de Chile; principal investigator of the ANDROMEDA-SHOCK trials; authority on tissue-perfusion-guided resuscitation.</li>
+  <li><span class="bio-name">Miguel Ibarra-Estrada</span> Department of Intensive Care, Universidad de Guadalajara / Hospital Civil, Mexico; his team's randomized trial of methylene blue in septic shock (Crit Care 2023) demonstrated faster vasopressor weaning and is key prior evidence for EMPRESS.</li>
+  <li><span class="bio-name">Eduardo Kattan</span> Department of Intensive Care Medicine, Pontificia Universidad Cat&oacute;lica de Chile; core member of ANDROMEDA-SHOCK-2 and refractory septic shock research; member of the Latin American Intensive Care Network (LIVEN).</li>
+</ul>
+
 ## Coordinating Committee {#coordinating}
 
 **Responsibilities**: day-to-day coordination of the network and study centers; site initiation and training; monitoring of enrollment progress and data quality; liaison with ethics committees and regulatory authorities.
@@ -42,11 +56,25 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 | Sen Lu | Sichuan Provincial People's Hospital |
 | Jian Song | Shanghai Fourth People's Hospital |
 
+**Member profiles**
+
+<ul class="bio-list">
+  <li><span class="bio-name">Jingchao Luo</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; co-first author of the EMPRESS protocol (see Steering Committee).</li>
+  <li><span class="bio-name">Sen Lu</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; corresponding author of the EMPRESS protocol.</li>
+  <li><span class="bio-name">Jian Song</span> Shanghai Fourth People's Hospital; Coordinating Committee member (limited public academic record).</li>
+</ul>
+
 ## Project Management {#project-management}
 
 | Name | Institution | Role |
 |:---|:---|:---:|
 | Zhaoying Li | Sichuan Provincial People's Hospital | Project Manager |
+
+**Member profiles**
+
+<ul class="bio-list">
+  <li><span class="bio-name">Zhaoying Li</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; project manager of the EMPRESS study, responsible for day-to-day coordination and project management.</li>
+</ul>
 
 ## Data Safety Monitoring Board (DSMB) {#dsmb}
 
@@ -58,4 +86,12 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 | Longxiang Su | Peking Union Medical College Hospital | Member |
 | Xiaobo Yang | Union Hospital, Tongji Medical College, Huazhong University of Science and Technology (Wuhan Union) | Member |
 
-<div class="footnote-note">Note: any roster changes will be published here as confirmed by the network management team. For governance-related inquiries, please use the [Contact](contact.html) page.</div>
+**Member profiles**
+
+<ul class="bio-list">
+  <li><span class="bio-name">Ignacio Martin-Loeches</span> Professor of intensive care medicine, St James's Hospital / Trinity College Dublin, Ireland; authority on severe infection and respiratory critical care; contributor to international consensus statements including the SCCM/ESICM definition of refractory septic shock.</li>
+  <li><span class="bio-name">Longxiang Su</span> Department of Critical Care Medicine, Peking Union Medical College Hospital; research interests include tissue perfusion monitoring in circulatory shock and critical care informatics (e.g., tissue oxygen saturation and lactate clearance, large language models in critical care).</li>
+  <li><span class="bio-name">Xiaobo Yang</span> Department of Critical Care Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology (Wuhan Union); research interests include sepsis and severe infection (viral sepsis, pneumonia in immunocompromised hosts).</li>
+</ul>
+
+<div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026); public records for some members are limited. Any roster changes will be published here as confirmed by the network management team. For governance-related inquiries, please use the [Contact](contact.html) page.</div>

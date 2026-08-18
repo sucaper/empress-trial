@@ -6,8 +6,8 @@
 
 - **Quarto 网站**（本机 1.10.18；Cloudflare Pages 构建时在线安装）
 - **GitHub** 存源码 + **Cloudflare Pages** 免费托管
-- **中英双语**：两个 Quarto 项目——中文项目在根目录（导航中文），英文项目在 `en/`（导航英文），各页面右上角/页内切换按钮互跳
-- Logo 位于导航栏左上方（`images/logo.jpg`）
+- **中英双语**：两个 Quarto 项目——中文项目在根目录（导航中文），英文项目在 `en/`（导航英文）；**语言切换按钮固定在导航栏**（`_components/lang_toggle.html` 注入，按当前页面自动互跳）
+- Logo 位于导航栏左上方（`images/logo.jpg`，CSS 中可调大小）
 
 ## 目录结构
 

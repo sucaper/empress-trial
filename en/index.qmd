@@ -3,24 +3,14 @@ title: "EMPRESS Research Network"
 lang: en
 ---
 
-<div class="lang-switch"><a href="../index.html">中文</a></div>
-
 <div class="hero">
   <h1 class="hero-title">EMPRESS Research Network</h1>
-  <p class="hero-sub">
-    A multicenter clinical research network focused on septic shock and vasoplegia<br/>
-    First study: the EMPRESS multicenter randomized controlled trial
-  </p>
-  <div class="hero-badges">
-    <span class="badge">Registration: ChiCTR2500112352</span>
-    <span class="badge">Protocol published: SJTREM 2026;34:44</span>
-    <span class="badge">Multicenter &middot; International collaboration</span>
-  </div>
+  <p class="hero-sub">Better Care for Septic Shock, More Lives Worth Living</p>
 </div>
 
 ## About the Network
 
-The EMPRESS Research Network is a multicenter, internationally collaborative clinical research network initiated by the Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital. The network focuses on key scientific questions in septic shock, vasoplegia, and catecholamine-sparing therapy, and is committed to high-quality multicenter clinical trials, methodological support, data governance, and investigator training.
+The EMPRESS Research Network is a multicenter, internationally collaborative clinical research network initiated by the Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, dedicated to improving the critical care of septic shock. The network's core mission is to conduct high-quality multicenter clinical trials, while also providing methodological support, data governance, and investigator training.
 
 [Learn more &rarr;](about.html)
 
@@ -59,7 +49,13 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 - Interim reports (to be released)
 - Publications
 
-[Go to Documents &rarr;](documents.html)
+<div class="doc-box">
+  <strong>Latest release</strong>: The EMPRESS protocol has been published (open access, CC BY 4.0)
+  &middot; <a href="files/protocols/EMPRESS_protocol_zh.pdf">Chinese PDF</a>
+  &middot; <a href="files/protocols/EMPRESS_protocol_en.pdf">English PDF</a>
+  &middot; <a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">DOI article</a>
+  &middot; <a href="documents.html">Documents page</a>
+</div>
 
 ## Latest News
 

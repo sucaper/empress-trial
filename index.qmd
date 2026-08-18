@@ -3,24 +3,14 @@ title: "EMPRESS Research Network"
 lang: zh-CN
 ---
 
-<div class="lang-switch"><a href="en/index.html">English</a></div>
-
 <div class="hero">
   <h1 class="hero-title">EMPRESS Research Network</h1>
-  <p class="hero-sub">
-    以感染性休克与血管麻痹临床研究为核心的多中心科研协作网络<br/>
-    第一个研究项目：EMPRESS 多中心随机对照试验
-  </p>
-  <div class="hero-badges">
-    <span class="badge">注册号 ChiCTR2500112352</span>
-    <span class="badge">方案发表于 SJTREM 2026;34:44</span>
-    <span class="badge">多中心 · 国际协作</span>
-  </div>
+  <p class="hero-sub">优化感染性休克救治，延续更多生命</p>
 </div>
 
 ## 关于网络
 
-EMPRESS Research Network 是由四川省医学科学院·四川省人民医院重症医学中心牵头发起的多中心、国际协作临床研究网络，聚焦感染性休克、血管麻痹与儿茶酚胺节约治疗等危重症领域的关键科学问题。网络以高质量多中心临床试验为核心任务，同时承担方法学支持、数据治理与研究者培训职能。
+EMPRESS Research Network 是由四川省医学科学院·四川省人民医院重症医学中心牵头发起的多中心、国际协作临床研究网络，聚焦感染性休克的重症救治的改进。网络以开展高质量多中心临床试验为核心目标，同时承担方法学支持、数据治理与研究者培训职能。
 
 [了解更多 →](about.html)
 
@@ -59,7 +49,13 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
 - 中期报告（待发布）
 - 发表文献
 
-[前往发布文件页 →](documents.html)
+<div class="doc-box">
+  <strong>最新发布</strong>：EMPRESS 研究方案已正式发表（开放获取，CC BY 4.0）
+  · <a href="files/protocols/EMPRESS_protocol_zh.pdf">中文版 PDF</a>
+  · <a href="files/protocols/EMPRESS_protocol_en.pdf">英文版 PDF</a>
+  · <a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">DOI 原文</a>
+  · <a href="documents.html">发布文件页</a>
+</div>
 
 ## 最新动态
 

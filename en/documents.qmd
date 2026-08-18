@@ -3,7 +3,6 @@ title: "Documents"
 lang: en
 ---
 
-<div class="lang-switch"><a href="../documents.html">中文</a></div>
 
 This section centralizes key documents of the network and its studies: protocols, statistical analysis plans (SAP), interim reports, and publications. Documents are released after review by the Steering Committee and are publicly verifiable.
 

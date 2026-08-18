@@ -3,7 +3,6 @@ title: "EMPRESS Study"
 lang: en
 ---
 
-<div class="lang-switch"><a href="../../studies/empress.html">中文</a></div>
 
 <div class="hero hero-sm">
   <h1 class="hero-title">EMPRESS Study</h1>

@@ -1,0 +1,43 @@
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+  var navs = document.querySelectorAll('.navbar-nav');
+  if (!navs.length) return;
+  var nav = null;
+  for (var i = navs.length - 1; i >= 0; i--) {
+    if (navs[i].className.indexOf('ms-auto') !== -1) { nav = navs[i]; break; }
+  }
+  if (!nav) nav = navs[navs.length - 1];
+  var path = window.location.pathname;
+  var isEn, rel, target;
+  if (window.location.protocol === 'file:') {
+    var m = path.replace(/^\/[A-Za-z]:/, '').split('/_site/');
+    rel = m.length > 1 ? m[1] : path.replace(/^\//, '');
+    isEn = /^en(\/|$)/.test(rel);
+    if (isEn) {
+      var sub = rel.replace(/^en\//, '');
+      var ups = sub.indexOf('/') >= 0 ? '../'.repeat(sub.split('/').length) : '../';
+      target = ups + sub;
+    } else {
+      target = 'en/' + rel;
+    }
+  } else {
+    rel = path;
+    isEn = /^\/en(\/|$)/.test(path);
+    if (isEn) {
+      target = rel.replace(/^\/en/, '') || '/';
+      if (target === '/index.html') target = '/';
+    } else {
+      target = rel === '/' || rel === '' ? '/en/' : '/en' + rel;
+      if (target === '/en/index.html') target = '/en/';
+    }
+  }
+  var li = document.createElement('li');
+  li.className = 'nav-item';
+  var a = document.createElement('a');
+  a.className = 'nav-link lang-toggle';
+  a.href = target;
+  a.textContent = isEn ? '中文' : 'English';
+  li.appendChild(a);
+  nav.appendChild(li);
+});
+</script>

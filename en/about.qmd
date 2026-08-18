@@ -3,11 +3,10 @@ title: "About the Network"
 lang: en
 ---
 
-<div class="lang-switch"><a href="../about.html">中文</a></div>
 
 ## Mission
 
-The EMPRESS Research Network is a clinical research network dedicated to **septic shock and vasoplegia**. Its mission is to generate reliable evidence for critically ill patients through high-quality multicenter clinical trials. The first study of the network is the EMPRESS trial &mdash; a multicenter randomized controlled trial evaluating whether early administration of methylene blue reduces mortality in patients with high-dose vasopressor-dependent septic shock.
+The EMPRESS Research Network is a multicenter, internationally collaborative clinical research network initiated by the Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, dedicated to **improving the critical care of septic shock**. The network's core mission is to conduct high-quality multicenter clinical trials, while also providing methodological support, data governance, and investigator training. The first study of the network is the EMPRESS trial &mdash; a multicenter randomized controlled trial evaluating whether early administration of methylene blue reduces mortality in patients with high-dose vasopressor-dependent septic shock.
 
 ## Organization
 

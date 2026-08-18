@@ -29,3 +29,4 @@ format:
     theme: [cosmo, ../styles/theme.scss]
     css: ../styles/custom.css
     toc: false
+    include-in-header: ../_components/lang_toggle.html
