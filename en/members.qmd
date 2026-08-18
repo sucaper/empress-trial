@@ -11,12 +11,12 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 
 **Domestic**
 
-- **Xiaobo Huang** (Sichuan Provincial People's Hospital)
-- **Chun Pan** (Sichuan Provincial People's Hospital)
-- **Jingchao Luo** (Sichuan Provincial People's Hospital)
-- **Mei Meng** (Shanghai Ninth People's Hospital)
-- **Yongpo Jiang** (Taizhou Hospital)
-- **Xi Guo** (Qilu Third Hospital)
+- **Xiaobo Huang** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
+- **Chun Pan** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
+- **Jingchao Luo** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
+- **Mei Meng** (Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine)
+- **Yongpo Jiang** (Taizhou Hospital of Zhejiang Province)
+- **Xi Guo** (Qilu Hospital of Shandong University, Third Campus)
 
 **International**
 
@@ -30,20 +30,20 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 
 **Responsibilities**: day-to-day coordination of the network and study centers; site initiation and training; monitoring of enrollment progress and data quality; liaison with ethics committees and regulatory authorities.
 
-- **Jingchao Luo** (Sichuan Provincial People's Hospital)
-- **Sen Lu** (Sichuan Provincial People's Hospital)
+- **Jingchao Luo** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
+- **Sen Lu** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
 - **Jian Song** (Shanghai Fourth People's Hospital)
 
 ## Project Manager {#project-management}
 
-- **Zhaoying Li** (Sichuan Provincial People's Hospital)
+- **Zhaoying Li** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
 
 ## Data Safety Monitoring Board (DSMB) {#dsmb}
 
 **Responsibilities**: independent of the study team, periodically review safety and efficacy data; assess benefit-risk against prespecified boundaries; advise the Steering Committee to continue, modify, or stop the study. Board members are not involved in study conduct.
 
 - **Ignacio Martin-Loeches** (Ireland &middot; Chair)
-- **Longxiang Su** (Peking Union Medical College Hospital)
+- **Longxiang Su** (Peking Union Medical College Hospital, Chinese Academy of Medical Sciences)
 - **Xiaobo Yang** (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan)
 
 ## Participating Centers {#centers}
