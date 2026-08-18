@@ -11,40 +11,40 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 
 **Domestic**
 
-- **Xiaobo Huang** (Sichuan Provincial People's Hospital) &mdash; Director of the Department of Critical Care Medicine; long-standing clinical and research leader in critical care
-- **Chun Pan** (Sichuan Provincial People's Hospital) &mdash; core member of the EMPRESS team focusing on severe infection and septic shock
-- **Jingchao Luo** (Sichuan Provincial People's Hospital) &mdash; co-first author of the EMPRESS protocol
-- **Mei Meng** (Shanghai Ninth People's Hospital) &mdash; corresponding author of the EMPRESS protocol
+- **Xiaobo Huang** (Sichuan Provincial People's Hospital)
+- **Chun Pan** (Sichuan Provincial People's Hospital)
+- **Jingchao Luo** (Sichuan Provincial People's Hospital)
+- **Mei Meng** (Shanghai Ninth People's Hospital)
 - **Yongpo Jiang** (Taizhou Hospital)
 - **Xi Guo** (Qilu Third Hospital)
 
 **International**
 
-- **Minghao Luo** (United Kingdom) &mdash; Nuffield Department of Population Health, University of Oxford, and Harefield Hospital Anaesthetic and Critical Care; co-first author of the EMPRESS protocol
-- **Jean-Louis Teboul** (France &middot; Universit&eacute; Paris-Saclay) &mdash; authority on hemodynamic monitoring and septic shock resuscitation
-- **Glenn Hern&aacute;ndez** (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile) &mdash; principal investigator of the ANDROMEDA-SHOCK trials
-- **Miguel Ibarra-Estrada** (Mexico &middot; Universidad de Guadalajara) &mdash; principal investigator of a methylene blue RCT (Crit Care 2023), key prior evidence for EMPRESS
-- **Eduardo Kattan** (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile) &mdash; core member of ANDROMEDA-SHOCK-2; member of the Latin American Intensive Care Network (LIVEN)
+- **Minghao Luo** (United Kingdom)
+- **Jean-Louis Teboul** (France &middot; Universit&eacute; Paris-Saclay)
+- **Glenn Hern&aacute;ndez** (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile)
+- **Miguel Ibarra-Estrada** (Mexico &middot; Universidad de Guadalajara)
+- **Eduardo Kattan** (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile)
 
 ## Coordinating Committee {#coordinating}
 
 **Responsibilities**: day-to-day coordination of the network and study centers; site initiation and training; monitoring of enrollment progress and data quality; liaison with ethics committees and regulatory authorities.
 
 - **Jingchao Luo** (Sichuan Provincial People's Hospital)
-- **Sen Lu** (Sichuan Provincial People's Hospital) &mdash; corresponding author of the EMPRESS protocol
+- **Sen Lu** (Sichuan Provincial People's Hospital)
 - **Jian Song** (Shanghai Fourth People's Hospital)
 
 ## Project Manager {#project-management}
 
-- **Zhaoying Li** (Sichuan Provincial People's Hospital) &mdash; project manager, responsible for day-to-day coordination and project management
+- **Zhaoying Li** (Sichuan Provincial People's Hospital)
 
 ## Data Safety Monitoring Board (DSMB) {#dsmb}
 
 **Responsibilities**: independent of the study team, periodically review safety and efficacy data; assess benefit-risk against prespecified boundaries; advise the Steering Committee to continue, modify, or stop the study. Board members are not involved in study conduct.
 
-- **Ignacio Martin-Loeches** (Ireland) &mdash; Chair; authority on severe infection and respiratory critical care, contributor to multiple international consensus statements
-- **Longxiang Su** (Peking Union Medical College Hospital) &mdash; tissue perfusion monitoring and critical care informatics
-- **Xiaobo Yang** (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan) &mdash; sepsis and severe infection
+- **Ignacio Martin-Loeches** (Ireland &middot; Chair)
+- **Longxiang Su** (Peking Union Medical College Hospital)
+- **Xiaobo Yang** (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan)
 
 ## Participating Centers {#centers}
 
@@ -52,4 +52,4 @@ The EMPRESS study is conducted at more than 50 tertiary hospital centers across 
 
 - List of participating centers &mdash; to be announced
 
-<div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026). Any roster changes will be published here as confirmed by the network management team. For member-related inquiries, please use the [Contact](contact.html) page.</div>
+<div class="footnote-note">Note: Any roster changes will be published here as confirmed by the network management team. For member-related inquiries, please use the [Contact](contact.html) page.</div>
