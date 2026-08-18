@@ -1,0 +1,41 @@
+---
+title: "Contact"
+lang: en
+---
+
+<div class="lang-switch"><a href="../contact.html">中文</a></div>
+
+## Corresponding Authors
+
+Corresponding authors of the protocol (as published):
+
+<div class="contact-card">
+  <div><span class="name">Mei Meng</span><span class="role">Corresponding author &middot; Shanghai Ninth People's Hospital</span></div>
+  <div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
+</div>
+
+<div class="contact-card">
+  <div><span class="name">Eduardo Kattan</span><span class="role">Corresponding author &middot; Pontificia Universidad Cat&oacute;lica de Chile / LIVEN</span></div>
+  <div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
+</div>
+
+<div class="contact-card">
+  <div><span class="name">Sen Lu</span><span class="role">Corresponding author &middot; Sichuan Provincial People's Hospital</span></div>
+  <div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
+</div>
+
+## Coordinating Institution
+
+- **Department of Critical Care Medicine**, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital (University of Electronic Science and Technology of China)
+- Address: Chengdu, Sichuan, China (detailed address and secretariat contacts to be announced)
+
+## Registration and Article Links
+
+- Chinese Clinical Trial Registry: [ChiCTR2500112352](https://www.chictr.org.cn/) (search by registration number)
+- Published protocol: [Scand J Trauma Resusc Emerg Med 2026;34:44](https://doi.org/10.1186/s13049-026-01563-y)
+
+## Collaboration
+
+Teams interested in septic shock and vasoplegia research are welcome to contact us regarding center collaboration, data collaboration, and investigator training.
+
+<div class="footnote-note">The English protocol is published under a CC BY 4.0 open-access license. Content on this site is compiled from the protocol; in case of discrepancy, the published version prevails.</div>

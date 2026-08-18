@@ -1,15 +1,50 @@
+/* ===== 页面基础 ===== */
+h2 { color: #0B2AC0; margin-top: 2.4rem; padding-bottom: .35rem; border-bottom: 2px solid #eef1ff; }
+h3 { color: #1f2937; }
+section, div.section { scroll-margin-top: 80px; }
+.footnote-note { font-size: .88rem; color: #6c757d; margin-top: 2rem; border-top: 1px solid #e9ecef; padding-top: .8rem; }
+
 /* ===== Hero ===== */
 .hero { text-align: center; padding: 2.8rem 0 1.6rem; }
+.hero-sm { padding: 1.6rem 0 1rem; }
 .hero-logo { max-width: 340px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 6px 24px rgba(0,0,0,.10); }
 .hero-title { font-size: 2.6rem; font-weight: 700; color: #0B2AC0; margin: 1.4rem 0 .5rem; letter-spacing: .02em; }
-.hero-sub { font-size: 1.12rem; color: #495057; max-width: 860px; margin: 0 auto 1.3rem; line-height: 1.8; }
+.hero-sub { font-size: 1.12rem; color: #495057; max-width: 880px; margin: 0 auto 1.3rem; line-height: 1.8; }
 .hero-badges .badge { display: inline-block; background: #eef1ff; color: #0B2AC0; border: 1px solid #c9d2ff; border-radius: 999px; padding: .32rem .95rem; margin: .25rem .2rem; font-size: .85rem; }
 body:has(.hero) header#title-block-header { display: none; }
 
-/* ===== 章节 ===== */
-section.with-margin, div.section { scroll-margin-top: 80px; }
-h2 { color: #0B2AC0; margin-top: 2.4rem; padding-bottom: .35rem; border-bottom: 2px solid #eef1ff; }
-h3 { color: #1f2937; }
+/* ===== 语言切换 ===== */
+.lang-switch { text-align: right; margin: .5rem 0 .2rem; }
+.lang-switch a { display: inline-block; background: #0B2AC0; color: #fff; border-radius: 999px; padding: .3rem .9rem; font-size: .85rem; text-decoration: none; }
+.lang-switch a:hover { background: #091f8f; color: #fff; }
+
+/* ===== 卡片 ===== */
+.study-card { border: 1px solid #dee2e6; border-left: 4px solid #0B2AC0; border-radius: 10px; padding: 1.2rem 1.4rem; margin: 1rem 0; background: #fafbff; }
+.study-card h3 { margin-top: 0; color: #0B2AC0; }
+.tag { display: inline-block; background: #0B2AC0; color: #fff; border-radius: 4px; font-size: .75rem; padding: .1rem .55rem; vertical-align: middle; margin-left: .4rem; }
+.gov-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin: 1.2rem 0; }
+.gov-card { border: 1px solid #dee2e6; border-radius: 10px; padding: 1.1rem 1.3rem; background: #fff; }
+.gov-card h3 { margin-top: 0; color: #0B2AC0; }
+.gov-card p { font-size: .92rem; color: #495057; }
+
+/* ===== 成员 ===== */
+.member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; margin: 1.2rem 0; }
+.member-card { border: 1px solid #dee2e6; border-radius: 10px; overflow: hidden; background: #fff; transition: box-shadow .15s ease; }
+.member-card:hover { box-shadow: 0 4px 16px rgba(11,42,192,.18); }
+.member-card-link { display: block; padding: 1rem; text-decoration: none; color: inherit; }
+.member-card-link:hover { text-decoration: none; }
+.member-photo { width: 100%; aspect-ratio: 1; background: #eef1ff; display: flex; align-items: center; justify-content: center; border-radius: 8px; margin-bottom: .7rem; overflow: hidden; }
+.member-photo-img { width: 100%; height: 100%; object-fit: cover; }
+.photo-placeholder { color: #8a94c2; font-size: .82rem; }
+.member-card-name { font-weight: 600; color: #0B2AC0; }
+.member-card-affil { font-size: .8rem; color: #6c757d; margin-top: .25rem; }
+.member-header { display: flex; gap: 1.4rem; align-items: flex-start; margin: 1.2rem 0 1.6rem; }
+.member-header .member-photo { width: 140px; aspect-ratio: 1; flex: none; }
+.member-name { margin: 0 0 .4rem; }
+.name-en { font-weight: 400; color: #6c757d; font-size: .95em; }
+.member-role { color: #0B2AC0; font-weight: 600; margin: .2rem 0; }
+.member-affil { color: #495057; margin: .2rem 0; }
+.member-email a { color: #0B2AC0; }
 
 /* ===== 设计表 ===== */
 table.design { width: 100%; border-collapse: collapse; margin: 1.2rem 0 1.8rem; }
@@ -32,10 +67,13 @@ table.design td:first-child { background: #f4f6ff; font-weight: 600; color: #0B2
 .timeline .tl-date { font-weight: 700; color: #0B2AC0; margin-right: .6rem; }
 .timeline .tl-tag { display: inline-block; background: #eef1ff; color: #0B2AC0; border-radius: 4px; font-size: .78rem; padding: .08rem .5rem; margin-left: .4rem; }
 
-/* ===== 联系人卡片 ===== */
+/* ===== 联系卡片 ===== */
 .contact-card { background: #f8f9fa; border: 1px solid #dee2e6; border-left: 4px solid #0B2AC0; border-radius: 8px; padding: 1.1rem 1.4rem; margin: .9rem 0; }
 .contact-card .name { font-weight: 700; color: #0B2AC0; }
 .contact-card .role { font-size: .85rem; color: #6c757d; margin-left: .5rem; }
 
-/* ===== 注 ===== */
-.footnote-note { font-size: .88rem; color: #6c757d; margin-top: 2rem; border-top: 1px solid #e9ecef; padding-top: .8rem; }
+/* ===== 发布文件分类 ===== */
+.doc-cat { border: 1px solid #dee2e6; border-radius: 10px; padding: 1rem 1.3rem; margin: 1rem 0; background: #fff; }
+.doc-cat h3 { margin-top: 0; color: #0B2AC0; }
+.doc-cat .status { font-size: .8rem; color: #6c757d; }
+.doc-cat ul { margin: .6rem 0 0; padding-left: 1.2rem; }

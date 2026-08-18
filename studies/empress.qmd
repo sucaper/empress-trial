@@ -1,0 +1,77 @@
+---
+title: "EMPRESS 研究"
+lang: zh-CN
+---
+
+<div class="lang-switch"><a href="en/studies/empress.html">English</a></div>
+
+<div class="hero hero-sm">
+  <h1 class="hero-title">EMPRESS 研究</h1>
+  <p class="hero-sub">早期应用亚甲蓝改善依赖高剂量升压药支持的感染性休克患者病死率——一项多中心随机对照试验方案</p>
+  <div class="hero-badges">
+    <span class="badge">注册号 ChiCTR2500112352</span>
+    <span class="badge">Scand J Trauma Resusc Emerg Med 2026;34:44</span>
+    <span class="badge">开放获取 · CC BY 4.0</span>
+  </div>
+</div>
+
+## 研究简介 {#about}
+
+感染性休克仍是急诊和重症监护室最致命的疾病之一，其病理生理机制与一氧化氮激活可溶性鸟苷酸环化酶通路（NO–sGC–cGMP 通路）介导的失控性血管扩张密切相关。亚甲蓝（Methylene Blue, MB）通过抑制该通路已显示出血流动力学获益，可能作为特别针对需要高剂量升压药的感染性休克患者的靶向辅助治疗——这一严重血管麻痹亚群具有显著升高的病死率。
+
+**EMPRESS**（Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock）是一项研究者发起、多中心、开放标签、终点设盲的随机对照试验，旨在评估早期亚甲蓝给药能否降低高剂量升压药依赖的感染性休克患者的病死率。
+
+<table class="design">
+  <tr><td>研究设计</td><td>研究者发起、多中心、开放标签、终点设盲的随机对照试验</td></tr>
+  <tr><td>目标人群</td><td>升压药启动 24 h 内去甲肾上腺素等效剂量 &gt; 0.3 μg/kg/min 的成年感染性休克患者</td></tr>
+  <tr><td>样本量</td><td>566 例，按 1:1 随机分组</td></tr>
+  <tr><td>干预组</td><td>亚甲蓝 2 mg/kg 负荷剂量，随后 0.25 mg/kg/h 维持输注（最多 48 h 或升压药停用后 4 h）</td></tr>
+  <tr><td>对照组</td><td>等体积 5% 葡萄糖</td></tr>
+  <tr><td>随机化分层</td><td>基线 SOFA-1 评分和研究中心</td></tr>
+  <tr><td>主要终点</td><td>28 天全因病死率</td></tr>
+  <tr><td>次要终点</td><td>无 ICU 天数、无升压药天数、无呼吸机天数、住院病死率、SOFA 评分改善</td></tr>
+  <tr><td>研究中心</td><td>中国 50 余个三级医院中心（急诊、呼吸、内科、外科等 ICU）</td></tr>
+  <tr><td>协调 / 申办</td><td>四川省医学科学院·四川省人民医院（电子科技大学附属）</td></tr>
+  <tr><td>伦理审批</td><td>中央伦理委员会批准（批准号 2025-583）</td></tr>
+</table>
+
+## 研究方案 {#protocol}
+
+研究方案的中英文全文均可直接下载；英文版为正式发表稿，以开放获取（CC BY 4.0）形式发布，也可通过 DOI 在线访问原文。
+
+<div class="download-box">
+  <a class="btn-dl primary" href="../files/protocols/EMPRESS_protocol_zh.pdf">
+    中文版方案 PDF
+    <span class="small">EMPRESS 研究主方案（最终发表版）</span>
+  </a>
+  <a class="btn-dl primary" href="../files/protocols/EMPRESS_protocol_en.pdf">
+    英文版方案 PDF
+    <span class="small">SJTREM 2026;34:44 · 正式发表稿</span>
+  </a>
+  <a class="btn-dl outline" href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">
+    在线访问原文
+    <span class="small">https://doi.org/10.1186/s13049-026-01563-y</span>
+  </a>
+</div>
+
+## 研究团队 {#team}
+
+本方案由来自中国、英国、智利、墨西哥和法国的 13 位研究者共同完成。**共同第一作者**：Jing-chao Luo（罗竞超）、Li Ma（马丽）、Ming-hao Luo（罗明浩）；**通讯作者**：Mei Meng（孟玫）、Eduardo Kattan、Sen Lu（卢森）。完整名单与单位请见[成员页面](members/index.html)。
+
+## 研究进展 {#progress}
+
+以下为可公开查证的里程碑信息，将随研究推进持续更新。
+
+<ul class="timeline">
+  <li><span class="tl-date">2025 年</span>中央伦理委员会批准（批准号 2025-583）<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2025-11-12</span>在中国临床试验注册中心完成注册（ChiCTR2500112352）<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2025-11-20</span>英文方案投稿《Scand J Trauma Resusc Emerg Med》<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2026-01-19</span>方案被期刊接收<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2026</span>英文方案正式发表（Scand J Trauma Resusc Emerg Med 2026;34:44，开放获取）<span class="tl-tag">已发表</span></li>
+  <li><span class="tl-date">2026</span>多中心启动与受试者入组进行中<span class="tl-tag">进行中</span></li>
+  <li><span class="tl-date">待更新</span>完成入组、结果发表<span class="tl-tag">规划中</span></li>
+</ul>
+
+## 更多资料
+
+统计分析计划、中期报告等文件将在[发布文件](documents.html)栏目发布。研究合作与入组咨询请通过[联系我们](contact.html)页面联系。

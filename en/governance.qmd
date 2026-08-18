@@ -1,0 +1,40 @@
+---
+title: "Governance"
+lang: en
+---
+
+<div class="lang-switch"><a href="../governance.html">中文</a></div>
+
+The EMPRESS Research Network is governed by three bodies with clear, mutually balanced responsibilities to safeguard scientific integrity and participant safety. Committee membership will be announced here once confirmed by the network management team.
+
+## Steering Committee {#steering}
+
+**Responsibilities**: provide scientific direction; approve the protocol and important amendments; oversee overall study progress; make final decisions on key scientific issues (including sample size re-estimation and blinded data reviews).
+
+| Name | Institution | Role |
+|:---|:---|:---:|
+| TBD | &mdash; | Chair |
+| TBD | &mdash; | Member |
+| TBD | &mdash; | Member |
+
+## Coordinating Committee {#coordinating}
+
+**Responsibilities**: day-to-day coordination of the network and study centers; site initiation and training; monitoring of enrollment progress and data quality; liaison with ethics committees and regulatory authorities.
+
+| Name | Institution | Role |
+|:---|:---|:---:|
+| TBD | &mdash; | Chair |
+| TBD | &mdash; | Member |
+| TBD | &mdash; | Member |
+
+## Data Safety Monitoring Board (DSMB) {#dsmb}
+
+**Responsibilities**: independent of the study team, periodically review safety and efficacy data; assess benefit-risk against prespecified boundaries; advise the Steering Committee to continue, modify, or stop the study. Board members are not involved in study conduct; at least one member is an independent statistician.
+
+| Name | Institution | Role |
+|:---|:---|:---:|
+| TBD | &mdash; | Chair |
+| TBD | &mdash; | Member (statistics) |
+| TBD | &mdash; | Member |
+
+<div class="footnote-note">Note: committee rosters are reserved slots and will be updated once confirmed. For governance-related inquiries, please use the [Contact](contact.html) page.</div>

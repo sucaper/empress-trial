@@ -1,0 +1,41 @@
+---
+title: "联系我们"
+lang: zh-CN
+---
+
+<div class="lang-switch"><a href="en/contact.html">English</a></div>
+
+## 通讯作者
+
+研究方案通讯作者（以发表版为准）：
+
+<div class="contact-card">
+  <div><span class="name">Mei Meng（孟玫）</span><span class="role">通讯作者 · 上海交通大学医学院附属第九人民医院</span></div>
+  <div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
+</div>
+
+<div class="contact-card">
+  <div><span class="name">Eduardo Kattan</span><span class="role">通讯作者 · 智利天主教大学 / LIVEN</span></div>
+  <div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
+</div>
+
+<div class="contact-card">
+  <div><span class="name">Sen Lu（卢森）</span><span class="role">通讯作者 · 四川省医学科学院·四川省人民医院重症医学科</span></div>
+  <div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
+</div>
+
+## 协调单位
+
+- **四川省医学科学院·四川省人民医院**（电子科技大学附属）重症医学中心
+- 地址：四川省成都市（具体地址与秘书处联系方式待公布）
+
+## 试验注册与原文链接
+
+- 中国临床试验注册中心：[ChiCTR2500112352](https://www.chictr.org.cn/)（检索注册号即可）
+- 方案原文：[Scand J Trauma Resusc Emerg Med 2026;34:44](https://doi.org/10.1186/s13049-026-01563-y)
+
+## 合作与加入
+
+欢迎对感染性休克与血管麻痹研究方向感兴趣的团队联系我们，洽谈中心合作、数据协作与研究者培训等事宜。
+
+<div class="footnote-note">英文方案以 CC BY 4.0 开放获取发布；本站内容基于该方案整理，如与发表稿不一致，以发表稿为准。</div>

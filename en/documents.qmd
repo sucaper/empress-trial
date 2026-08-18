@@ -1,0 +1,45 @@
+---
+title: "Documents"
+lang: en
+---
+
+<div class="lang-switch"><a href="../documents.html">中文</a></div>
+
+This section centralizes key documents of the network and its studies: protocols, statistical analysis plans (SAP), interim reports, and publications. Documents are released after review by the Steering Committee and are publicly verifiable.
+
+## Protocols
+
+<div class="doc-cat">
+  <h3>EMPRESS Study Protocol</h3>
+  <ul>
+    <li>Chinese version: <a href="files/protocols/EMPRESS_protocol_zh.pdf">EMPRESS study protocol, final version (PDF)</a></li>
+    <li>English version (published): <a href="files/protocols/EMPRESS_protocol_en.pdf">PDF download</a> &middot; <a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">online via DOI</a> (open access, CC BY 4.0)</li>
+  </ul>
+</div>
+
+## Statistical Analysis Plan
+
+<div class="doc-cat">
+  <h3>Statistical Analysis Plan <span class="status">To be released</span></h3>
+  <p>The SAP will be released after approval by the Steering Committee prior to data lock.</p>
+  <ul><li>EMPRESS Statistical Analysis Plan &mdash; to be released</li></ul>
+</div>
+
+## Interim Reports
+
+<div class="doc-cat">
+  <h3>Interim Reports <span class="status">To be released</span></h3>
+  <p>Safety monitoring and interim progress reports will be released periodically in accordance with study progress and regulatory requirements (without unpublished result data).</p>
+  <ul><li>Interim report &mdash; to be released</li></ul>
+</div>
+
+## Publications
+
+<div class="doc-cat">
+  <h3>EMPRESS Study Protocol</h3>
+  <p><strong>Suggested citation</strong>: Luo JC, Ma L, Luo MH, Ibarra-Estrada M, Yan PJ, Zhang ZA, et al. Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock (EMPRESS): protocol for a multicenter randomized controlled trial. Scand J Trauma Resusc Emerg Med. 2026;34:44. doi:10.1186/s13049-026-01563-y.</p>
+  <ul><li><a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">Scand J Trauma Resusc Emerg Med 2026;34:44</a> (open access)</li></ul>
+  <p>Results papers will be added here once published.</p>
+</div>
+
+<div class="footnote-note">Document release workflow: drafting &rarr; Steering Committee review &rarr; network management release. For questions about published documents, please use the [Contact](contact.html) page.</div>

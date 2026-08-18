@@ -1,0 +1,24 @@
+---
+title: "Chun Pan"
+lang: zh-CN
+---
+
+<div class="lang-switch"><a href="en/members/pan-chun.html">English</a></div>
+
+<div class="member-header">
+  <div class="member-photo"><span class="photo-placeholder">头像待上传</span></div>
+  <div class="member-info">
+    <h1 class="member-name">潘纯 <span class="name-en">Chun Pan</span></h1>
+    <p class="member-role">协作作者</p>
+    <p class="member-affil">四川省医学科学院·四川省人民医院（电子科技大学附属）重症医学科</p>
+    
+  </div>
+</div>
+
+## 个人简介
+
+（个人简介待补充）
+
+## 参与研究
+
+- EMPRESS 研究（早期亚甲蓝治疗高剂量升压药依赖感染性休克的多中心随机对照试验）

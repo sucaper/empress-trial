@@ -1,137 +1,75 @@
 ---
-title: "EMPRESS Study"
+title: "EMPRESS Research Network"
 lang: en
 ---
 
 <div class="hero">
-  <img src="../images/logo.jpg" alt="EMPRESS Study Logo" class="hero-logo" />
-  <h1 class="hero-title">EMPRESS Study</h1>
+  <img src="../images/logo.jpg" alt="EMPRESS Research Network Logo" class="hero-logo" />
+  <h1 class="hero-title">EMPRESS Research Network</h1>
   <p class="hero-sub">
-    Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock<br/>
-    &mdash; Protocol for a Multicenter Randomized Controlled Trial
+    A multicenter clinical research network focused on septic shock and vasoplegia<br/>
+    First study: the EMPRESS multicenter randomized controlled trial
   </p>
   <div class="hero-badges">
     <span class="badge">Registration: ChiCTR2500112352</span>
-    <span class="badge">Scand J Trauma Resusc Emerg Med 2026;34:44</span>
-    <span class="badge">Open access &middot; CC BY 4.0</span>
+    <span class="badge">Protocol published: SJTREM 2026;34:44</span>
+    <span class="badge">Multicenter &middot; International collaboration</span>
   </div>
 </div>
 
-## About the Study {#about}
+## About the Network
 
-Septic shock remains one of the most lethal emergency and critical care conditions, with underlying pathophysiology closely linked to uncontrolled vasodilation mediated by nitric oxide activation of the soluble guanylate cyclase pathway (NO&ndash;sGC&ndash;cGMP pathway). Methylene blue (MB), through its inhibition of this pathway, has demonstrated hemodynamic benefits and may serve as a targeted adjunctive therapy, particularly in patients with septic shock requiring high-dose vasopressors &mdash; a severely vasoplegic subpopulation characterized by markedly elevated mortality.
+The EMPRESS Research Network is a multicenter, internationally collaborative clinical research network initiated by the Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital. The network focuses on key scientific questions in septic shock, vasoplegia, and catecholamine-sparing therapy, and is committed to high-quality multicenter clinical trials, methodological support, data governance, and investigator training.
 
-**EMPRESS** (Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock) is an investigator-initiated, multicenter, open-label, blinded-endpoint randomized controlled trial evaluating whether early administration of methylene blue reduces mortality in patients with high-dose vasopressor-dependent septic shock.
+[Learn more &rarr;](about.html)
 
-<table class="design">
-  <tr><td>Design</td><td>Investigator-initiated, multicenter, open-label, blinded-endpoint RCT</td></tr>
-  <tr><td>Population</td><td>Adult patients with septic shock requiring norepinephrine-equivalent doses &gt; 0.3 μg/kg/min within 24 h of vasopressor initiation</td></tr>
-  <tr><td>Sample size</td><td>566 patients, randomized 1:1</td></tr>
-  <tr><td>Intervention</td><td>Methylene blue 2 mg/kg loading dose, followed by 0.25 mg/kg/h maintenance infusion (up to 48 h or 4 h after vasopressor discontinuation)</td></tr>
-  <tr><td>Control</td><td>Equal volume 5% dextrose</td></tr>
-  <tr><td>Randomization</td><td>Stratified by baseline SOFA-1 score and study center</td></tr>
-  <tr><td>Primary outcome</td><td>28-day all-cause mortality</td></tr>
-  <tr><td>Secondary outcomes</td><td>ICU-free days, vasopressor-free days, ventilator-free days, in-hospital mortality, and SOFA score improvement</td></tr>
-  <tr><td>Study centers</td><td>&gt; 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs)</td></tr>
-  <tr><td>Coordinator / Sponsor</td><td>Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital (University of Electronic Science and Technology of China)</td></tr>
-  <tr><td>Ethics approval</td><td>Central ethics committee approval (No. 2025-583)</td></tr>
-</table>
+## Studies
 
-## Protocol {#protocol}
-
-Both the Chinese and English versions of the protocol are available for download. The English version is the published manuscript, released under open access (CC BY 4.0), and is also available online via DOI.
-
-<div class="download-box">
-  <a class="btn-dl primary" href="../protocol/EMPRESS_protocol_zh.pdf">
-    Chinese protocol (PDF)
-    <span class="small">EMPRESS study protocol, final version</span>
-  </a>
-  <a class="btn-dl primary" href="../protocol/EMPRESS_protocol_en.pdf">
-    English protocol (PDF)
-    <span class="small">SJTREM 2026;34:44 &middot; published version</span>
-  </a>
-  <a class="btn-dl outline" href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">
-    View online
-    <span class="small">https://doi.org/10.1186/s13049-026-01563-y</span>
-  </a>
+<div class="study-card">
+  <h3>EMPRESS Study<span class="tag">First study</span></h3>
+  <p><strong>Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock</strong> &mdash; an investigator-initiated, multicenter, open-label, blinded-endpoint randomized controlled trial (566 patients; primary outcome: 28-day all-cause mortality; registration: ChiCTR2500112352).</p>
+  <p><a class="btn-dl primary" href="studies/empress.html">View study details</a></p>
 </div>
 
-## Study Team {#team}
+## Governance
 
-This protocol was developed by 13 investigators from China, the United Kingdom, Chile, Mexico, and France. **Co-first authors**: Jing-chao Luo, Li Ma, Ming-hao Luo. **Corresponding authors**: Mei Meng, Eduardo Kattan, Sen Lu.
+<div class="gov-grid">
+  <div class="gov-card">
+    <h3>Steering Committee</h3>
+    <p>Provides scientific direction and approves protocol amendments and key decisions.</p>
+    <p><a href="governance.html#steering">View members &rarr;</a></p>
+  </div>
+  <div class="gov-card">
+    <h3>Coordinating Committee</h3>
+    <p>Manages daily operations, site coordination, and data quality.</p>
+    <p><a href="governance.html#coordinating">View members &rarr;</a></p>
+  </div>
+  <div class="gov-card">
+    <h3>Data Safety Monitoring Board</h3>
+    <p>Independently monitors safety and efficacy data.</p>
+    <p><a href="governance.html#dsmb">View members &rarr;</a></p>
+  </div>
+</div>
 
-| Author (as published) | Affiliation no. |
-|:---|:---:|
-| Jing-chao Luo &dagger; | 1, 2 |
-| Li Ma &dagger; | 3 |
-| Ming-hao Luo &dagger; | 6, 7 |
-| Miguel Ibarra-Estrada | 9, 10, 11 |
-| Pei-jing Yan | 4 |
-| Zheng-ang Zhang | 2 |
-| Mei Meng &ast; | 5 |
-| Eduardo Kattan &ast; | 8, 9 |
-| Sen Lu &ast; | 1 |
-| Chun Pan | 1 |
-| Jean-Louis Teboul | 12 |
-| Glenn Hern&aacute;ndez | 8, 9 |
-| Xiao-bo Huang | 1 |
+## Documents
 
-&dagger; Co-first authors; &ast; Corresponding authors.
+- Study protocol (Chinese / English PDF, DOI link for online access)
+- Statistical analysis plan (SAP, to be released)
+- Interim reports (to be released)
+- Publications
 
-**Affiliations**
+[Go to Documents &rarr;](documents.html)
 
-1. Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China
-2. Department of Critical Care Medicine, First People's Hospital of Liangshan Yi Autonomous Prefecture, Xichang, China
-3. Medical Administration Department, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China
-4. Clinical Research Center, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China
-5. Department of Intensive Care Medicine, School of Medicine, Shanghai Ninth People's Hospital, Shanghai Jiaotong University, Shanghai, China
-6. Nuffield Department of Population Health, University of Oxford, Oxford, UK
-7. Department of Anaesthetic and Critical Care, Harefield Hospital, Heart, Lung and Critical Care Group, Guy's and St Thomas' NHS Foundation Trust, London, UK
-8. Departamento de Medicina Intensiva, Facultad de Medicina, Pontificia Universidad Católica de Chile, Santiago, Chile
-9. The Latin American Intensive Care Network (LIVEN), Santiago, Chile
-10. Unidad de Terapia Intensiva, Hospital Civil Fray Antonio Alcalde, Universidad de Guadalajara, Guadalajara, Jalisco, México
-11. Instituto Jalisciense de Cancerología, Guadalajara, Jalisco, Mexico
-12. Faculté de Médecine, Université Paris-Saclay, Le Kremlin-Bicêtre, France
-
-## Progress {#progress}
-
-Publicly verifiable milestones, updated as the study progresses.
+## Latest News
 
 <ul class="timeline">
-  <li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2025-11-20</span>Protocol submitted to <em>Scand J Trauma Resusc Emerg Med</em><span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2026-01-19</span>Accepted by the journal<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2026</span>Protocol published (Scand J Trauma Resusc Emerg Med 2026;34:44, open access)<span class="tl-tag">Published</span></li>
   <li><span class="tl-date">2026</span>Multicenter site initiation and patient enrollment ongoing<span class="tl-tag">Ongoing</span></li>
-  <li><span class="tl-date">TBD</span>Enrollment completion and publication of results<span class="tl-tag">Planned</span></li>
+  <li><span class="tl-date">2026</span>EMPRESS protocol published (SJTREM 2026;34:44, open access)<span class="tl-tag">Published</span></li>
+  <li><span class="tl-date">2026-01-19</span>Protocol accepted by the journal<span class="tl-tag">Done</span></li>
+  <li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
+  <li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
 </ul>
 
-## Contact {#contact}
+## Contact
 
-For research collaboration, enrollment inquiries, or corrections, please contact:
-
-<div class="contact-card">
-  <div><span class="name">Mei Meng</span><span class="role">Corresponding author &middot; Shanghai Ninth People's Hospital</span></div>
-  <div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
-</div>
-
-<div class="contact-card">
-  <div><span class="name">Eduardo Kattan</span><span class="role">Corresponding author &middot; Pontificia Universidad Católica de Chile / LIVEN</span></div>
-  <div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
-</div>
-
-<div class="contact-card">
-  <div><span class="name">Sen Lu</span><span class="role">Corresponding author &middot; Sichuan Provincial People's Hospital</span></div>
-  <div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
-</div>
-
-**Registration and article links**
-
-- Chinese Clinical Trial Registry: [ChiCTR2500112352](https://www.chictr.org.cn/) (search by registration number)
-- Published protocol: [Scand J Trauma Resusc Emerg Med 2026;34:44](https://doi.org/10.1186/s13049-026-01563-y)
-
-<div class="footnote-note">
-**Suggested citation**: Luo JC, Ma L, Luo MH, Ibarra-Estrada M, Yan PJ, Zhang ZA, et al. Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock (EMPRESS): protocol for a multicenter randomized controlled trial. Scand J Trauma Resusc Emerg Med. 2026;34:44. doi:10.1186/s13049-026-01563-y.
-The English protocol is published under a CC BY 4.0 open-access license. Content on this site is compiled from the protocol; in case of discrepancy, the published version prevails.
-</div>
+For research collaboration, enrollment inquiries, or corrections, please contact us via the [Contact](contact.html) page.

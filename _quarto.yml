@@ -3,27 +3,26 @@ project:
   output-dir: _site
 
 website:
-  title: "EMPRESS"
+  title: "EMPRESS Research Network"
   navbar:
     left:
-      - text: "首页"
+      - text: "首页 Home"
         href: index.qmd
-      - text: "研究简介"
-        href: index.qmd#about
-      - text: "研究方案"
-        href: index.qmd#protocol
-      - text: "研究团队"
-        href: index.qmd#team
-      - text: "研究进展"
-        href: index.qmd#progress
-      - text: "联系方式"
-        href: index.qmd#contact
-    right:
-      - text: "English"
-        href: en/index.html
+      - text: "关于 About"
+        href: about.qmd
+      - text: "研究 Studies"
+        href: studies/empress.qmd
+      - text: "治理 Governance"
+        href: governance.qmd
+      - text: "成员 Members"
+        href: members/index.qmd
+      - text: "发布文件 Documents"
+        href: documents.qmd
+      - text: "联系 Contact"
+        href: contact.qmd
   page-footer:
-    left: "© 2026 EMPRESS 研究"
-    center: "ChiCTR2500112352"
+    left: "© 2026 EMPRESS Research Network"
+    center: "ChiCTR2500112352 · doi:10.1186/s13049-026-01563-y"
     right: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 format:

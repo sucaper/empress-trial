@@ -1,35 +1,45 @@
-# EMPRESS 研究发布主页
+# EMPRESS Research Network 网站
 
-早期应用亚甲蓝改善依赖高剂量升压药支持的感染性休克患者病死率（EMPRESS）——多中心随机对照试验方案的发布页面。
+以感染性休克与血管麻痹研究为核心的多中心临床研究网络官网。第一个研究项目：EMPRESS 多中心随机对照试验。
 
-## 站点结构
+## 技术栈与部署
 
-- `_quarto.yml` — Quarto 网站配置（导航、主题、页脚）
-- `index.qmd` — 中文首页
-- `en/index.qmd` — 英文首页
-- `styles/theme.scss` — 主题变量（主色 #0B2AC0）
-- `styles/custom.css` — 自定义样式（Hero/时间线/下载按钮等）
-- `images/logo.jpg` — 研究 Logo
-- `protocol/EMPRESS_protocol_zh.pdf` — 中文版方案（最终发表版）
-- `protocol/EMPRESS_protocol_en.pdf` — 英文版方案（SJTREM 2026;34:44）
+- **Quarto 网站**（本机 1.10.18；Cloudflare Pages 构建时在线安装）
+- **GitHub** 存源码 + **Cloudflare Pages** 免费托管
+- 中英双语：中文在根目录，英文在 `en/`；每页右上角语言切换按钮
 
-## 本地预览
+## 目录结构
 
-```bash
-quarto render    # 输出到 _site/
-quarto preview   # 本地预览
+```
+_quarto.yml            # 站点配置（导航/页脚/主题）
+index.qmd              # 机构首页（中文）
+about.qmd              # 关于网络
+governance.qmd         # 治理架构：指导委员会/协调委员会/DSMB
+studies/empress.qmd    # EMPRESS 研究详情
+members/               # 成员总览 + 个人主页（由脚本生成，勿手改）
+documents.qmd          # 发布文件（方案/SAP/中期报告/发表文献）
+contact.qmd            # 联系我们
+en/                    # 英文镜像（结构与中文一致）
+data/members.json      # 成员数据（编辑入口）
+scripts/build_members.py  # 成员页生成器
+_components/           # 组件库（含使用说明）
+_admin/                # 记忆文件与编辑权限说明（不参与渲染）
+files/protocols/       # 方案 PDF（发布文件实际存放）
+files/sap/             # SAP（待发布）
+files/interim-reports/ # 中期报告（待发布）
+styles/                # 主题（theme.scss）与自定义样式（custom.css）
 ```
 
-## 部署（Cloudflare Pages）
+## 常用操作
 
-1. 推送本仓库到 GitHub（公开仓库）
-2. Cloudflare Pages → Create project → 连接该 GitHub 仓库
-3. 构建配置：
-   - Build command:
-     `curl -sSL https://quarto.org/download/latest.tar.gz -o /tmp/quarto.tar.gz && mkdir -p /opt/quarto && tar -xzf /tmp/quarto.tar.gz -C /opt/quarto --strip-components=1 && export PATH=/opt/quarto/bin:$PATH && quarto render`
-   - Build output directory: `_site`
-4. 保存后自动部署，首次部署后可绑定自定义域名
+- 本地预览：`quarto render` 后打开 `_site/index.html`，或 `quarto preview`
+- 更新成员：改 `data/members.json` → `python scripts/build_members.py` → `quarto render`
+- 发布文件：文件放入 `files/` 对应目录 → 在 `documents.qmd` 登记 → 推送
+- 添加组件：见 `_components/README.md`
+- 编辑权限与红线：见 `_admin/编辑权限说明.md`
 
-## 更新内容
+## Cloudflare Pages 构建配置
 
-改 `index.qmd` / `en/index.qmd` → 本地 `quarto render` 验证 → `git add` / `commit` / `push` → Cloudflare Pages 自动构建部署。
+- Build command：
+  `curl -sSL https://quarto.org/download/latest.tar.gz -o /tmp/quarto.tar.gz && mkdir -p /opt/quarto && tar -xzf /tmp/quarto.tar.gz -C /opt/quarto --strip-components=1 && export PATH=/opt/quarto/bin:$PATH && quarto render`
+- Build output directory：`_site`

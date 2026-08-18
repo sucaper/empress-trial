@@ -1,0 +1,29 @@
+---
+title: "About the Network"
+lang: en
+---
+
+<div class="lang-switch"><a href="../about.html">中文</a></div>
+
+## Mission
+
+The EMPRESS Research Network is a clinical research network dedicated to **septic shock and vasoplegia**. Its mission is to generate reliable evidence for critically ill patients through high-quality multicenter clinical trials. The first study of the network is the EMPRESS trial &mdash; a multicenter randomized controlled trial evaluating whether early administration of methylene blue reduces mortality in patients with high-dose vasopressor-dependent septic shock.
+
+## Organization
+
+- **Lead institution**: Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital (University of Electronic Science and Technology of China); serves as sponsor and coordinating center
+- **Study centers**: more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs)
+- **International collaboration**: methodological collaboration with intensive care teams at Pontificia Universidad Católica de Chile (Glenn Hern&aacute;ndez, Eduardo Kattan) and Universit&eacute; Paris-Saclay (Jean-Louis Teboul), among others
+- **Governance bodies**: Steering Committee, Coordinating Committee, Data Safety Monitoring Board (see [Governance](governance.html))
+
+## Research Areas
+
+1. Mechanisms and targeted therapy of vasoplegia in septic and distributive shock
+2. Clinical evaluation of catecholamine-sparing strategies (methylene blue, vasopressin, etc.)
+3. Methodology and data governance for multicenter clinical trials
+
+## Data and Quality
+
+The network follows international standards of clinical trials (ICH-GCP) and applicable regulations. Key documents, including the study protocol, statistical analysis plan, and interim reports, are reviewed by the Steering Committee and published in the [Documents](documents.html) section. Study registration and ethics information are verifiable in public registries.
+
+<div class="footnote-note">In case of discrepancy between this site and formally published documents, the published documents prevail.</div>

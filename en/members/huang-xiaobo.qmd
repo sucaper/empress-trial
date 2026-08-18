@@ -1,0 +1,24 @@
+---
+title: "Xiao-bo Huang"
+lang: en
+---
+
+<div class="lang-switch"><a href="../members/huang-xiaobo.html">中文</a></div>
+
+<div class="member-header">
+  <div class="member-photo"><span class="photo-placeholder">Photo to be added</span></div>
+  <div class="member-info">
+    <h1 class="member-name">Xiao-bo Huang</h1>
+    <p class="member-role">Collaborating author</p>
+    <p class="member-affil">Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China</p>
+    
+  </div>
+</div>
+
+## Biography
+
+Biography to be added.
+
+## Research involvement
+
+- EMPRESS Study (Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock, a multicenter randomized controlled trial)

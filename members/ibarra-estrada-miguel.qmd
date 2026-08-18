@@ -1,0 +1,24 @@
+---
+title: "Miguel Ibarra-Estrada"
+lang: zh-CN
+---
+
+<div class="lang-switch"><a href="en/members/ibarra-estrada-miguel.html">English</a></div>
+
+<div class="member-header">
+  <div class="member-photo"><span class="photo-placeholder">头像待上传</span></div>
+  <div class="member-info">
+    <h1 class="member-name">Miguel Ibarra-Estrada</h1>
+    <p class="member-role">协作作者</p>
+    <p class="member-affil">拉丁美洲重症监护网络（LIVEN）；墨西哥瓜达拉哈拉大学 Fray Antonio Alcalde 市民医院重症监护病房；墨西哥 Jalisco 肿瘤研究所</p>
+    
+  </div>
+</div>
+
+## 个人简介
+
+（个人简介待补充）
+
+## 参与研究
+
+- EMPRESS 研究（早期亚甲蓝治疗高剂量升压药依赖感染性休克的多中心随机对照试验）
