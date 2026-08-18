@@ -9,18 +9,18 @@ lang: zh-CN
 研究方案通讯作者（以发表版为准）：
 
 <div class="contact-card">
-  <div><span class="name">Mei Meng（孟玫）</span><span class="role">通讯作者 · 上海交通大学医学院附属第九人民医院</span></div>
-  <div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
+<div><span class="name">Mei Meng（孟玫）</span><span class="role">通讯作者 · 上海交通大学医学院附属第九人民医院</span></div>
+<div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
 </div>
 
 <div class="contact-card">
-  <div><span class="name">Eduardo Kattan</span><span class="role">通讯作者 · 智利天主教大学 / LIVEN</span></div>
-  <div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
+<div><span class="name">Eduardo Kattan</span><span class="role">通讯作者 · 智利天主教大学 / LIVEN</span></div>
+<div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
 </div>
 
 <div class="contact-card">
-  <div><span class="name">Sen Lu（卢森）</span><span class="role">通讯作者 · 四川省医学科学院·四川省人民医院重症医学科</span></div>
-  <div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
+<div><span class="name">Sen Lu（卢森）</span><span class="role">通讯作者 · 四川省医学科学院·四川省人民医院重症医学科</span></div>
+<div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
 </div>
 
 ## 协调单位

@@ -4,8 +4,8 @@ lang: en
 ---
 
 <div class="hero">
-  <h1 class="hero-title">EMPRESS Research Network</h1>
-  <p class="hero-sub">Better Care for Septic Shock, More Lives Worth Living</p>
+<h1 class="hero-title">EMPRESS Research Network</h1>
+<p class="hero-sub">Better Care for Septic Shock, More Lives Worth Living</p>
 </div>
 
 ## About the Network
@@ -17,44 +17,44 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 ## Studies
 
 <div class="study-card">
-  <h3>EMPRESS Study<span class="tag">First study</span></h3>
-  <p><strong>Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock</strong> &mdash; an investigator-initiated, multicenter, open-label, blinded-endpoint randomized controlled trial (566 patients; primary outcome: 28-day all-cause mortality; registration: ChiCTR2500112352).</p>
-  <p><a class="btn-dl primary" href="studies/empress.html">View study details</a></p>
+<h3>EMPRESS Study<span class="tag">First study</span></h3>
+<p><strong>Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock</strong> &mdash; an investigator-initiated, multicenter, open-label, blinded-endpoint randomized controlled trial (566 patients; primary outcome: 28-day all-cause mortality; registration: ChiCTR2500112352).</p>
+<p><a class="btn-dl primary" href="studies/empress.html">View study details</a></p>
 </div>
 
 ## Members
 
 <div class="gov-grid">
-  <div class="gov-card">
-    <h3>Steering Committee</h3>
-    <p>11 domestic and international experts providing scientific direction and approving key decisions.</p>
-    <p><a class="btn-dl primary" href="members.html#steering">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
-  </div>
-  <div class="gov-card">
-    <h3>Coordinating Committee</h3>
-    <p>Manages daily operations, site coordination, and data quality (with a project manager).</p>
-    <p><a class="btn-dl primary" href="members.html#coordinating">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
-  </div>
-  <div class="gov-card">
-    <h3>Data Safety Monitoring Board</h3>
-    <p>Independently monitors safety and efficacy data and assesses benefit-risk.</p>
-    <p><a class="btn-dl primary" href="members.html#dsmb">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
-  </div>
-  <div class="gov-card">
-    <h3>Participating Centers</h3>
-    <p>The EMPRESS study is conducted at more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs).</p>
-    <p><a class="btn-dl primary" href="members.html#centers">View details &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
-  </div>
+<div class="gov-card">
+<h3>Steering Committee</h3>
+<p>11 domestic and international experts providing scientific direction and approving key decisions.</p>
+<p><a class="btn-dl primary" href="members.html#steering">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+</div>
+<div class="gov-card">
+<h3>Coordinating Committee</h3>
+<p>Manages daily operations, site coordination, and data quality (with a project manager).</p>
+<p><a class="btn-dl primary" href="members.html#coordinating">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+</div>
+<div class="gov-card">
+<h3>Data Safety Monitoring Board</h3>
+<p>Independently monitors safety and efficacy data and assesses benefit-risk.</p>
+<p><a class="btn-dl primary" href="members.html#dsmb">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+</div>
+<div class="gov-card">
+<h3>Participating Centers</h3>
+<p>The EMPRESS study is conducted at more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs).</p>
+<p><a class="btn-dl primary" href="members.html#centers">View details &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+</div>
 </div>
 
 ## Latest News
 
 <ul class="timeline">
-  <li><span class="tl-date">2026</span>Multicenter site initiation and patient enrollment ongoing<span class="tl-tag">Ongoing</span></li>
-  <li><span class="tl-date">2026</span>EMPRESS protocol published (SJTREM 2026;34:44, open access)<span class="tl-tag">Published</span></li>
-  <li><span class="tl-date">2026-01-19</span>Protocol accepted by the journal<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2026</span>Multicenter site initiation and patient enrollment ongoing<span class="tl-tag">Ongoing</span></li>
+<li><span class="tl-date">2026</span>EMPRESS protocol published (SJTREM 2026;34:44, open access)<span class="tl-tag">Published</span></li>
+<li><span class="tl-date">2026-01-19</span>Protocol accepted by the journal<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
 </ul>
 
 ## Contact

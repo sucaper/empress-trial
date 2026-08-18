@@ -9,18 +9,18 @@ lang: en
 Corresponding authors of the protocol (as published):
 
 <div class="contact-card">
-  <div><span class="name">Mei Meng</span><span class="role">Corresponding author &middot; Shanghai Ninth People's Hospital</span></div>
-  <div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
+<div><span class="name">Mei Meng</span><span class="role">Corresponding author &middot; Shanghai Ninth People's Hospital</span></div>
+<div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
 </div>
 
 <div class="contact-card">
-  <div><span class="name">Eduardo Kattan</span><span class="role">Corresponding author &middot; Pontificia Universidad Cat&oacute;lica de Chile / LIVEN</span></div>
-  <div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
+<div><span class="name">Eduardo Kattan</span><span class="role">Corresponding author &middot; Pontificia Universidad Cat&oacute;lica de Chile / LIVEN</span></div>
+<div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
 </div>
 
 <div class="contact-card">
-  <div><span class="name">Sen Lu</span><span class="role">Corresponding author &middot; Sichuan Provincial People's Hospital</span></div>
-  <div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
+<div><span class="name">Sen Lu</span><span class="role">Corresponding author &middot; Sichuan Provincial People's Hospital</span></div>
+<div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
 </div>
 
 ## Coordinating Institution

@@ -5,13 +5,13 @@ lang: en
 
 
 <div class="hero hero-sm">
-  <h1 class="hero-title">EMPRESS Study</h1>
-  <p class="hero-sub">Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock &mdash; Protocol for a Multicenter Randomized Controlled Trial</p>
-  <div class="hero-badges">
-    <span class="badge">Registration: ChiCTR2500112352</span>
-    <span class="badge">Scand J Trauma Resusc Emerg Med 2026;34:44</span>
-    <span class="badge">Open access &middot; CC BY 4.0</span>
-  </div>
+<h1 class="hero-title">EMPRESS Study</h1>
+<p class="hero-sub">Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock &mdash; Protocol for a Multicenter Randomized Controlled Trial</p>
+<div class="hero-badges">
+<span class="badge">Registration: ChiCTR2500112352</span>
+<span class="badge">Scand J Trauma Resusc Emerg Med 2026;34:44</span>
+<span class="badge">Open access &middot; CC BY 4.0</span>
+</div>
 </div>
 
 ## About the Study {#about}
@@ -21,27 +21,27 @@ Septic shock remains one of the most lethal emergency and critical care conditio
 **EMPRESS** (Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock) is an investigator-initiated, multicenter, open-label, blinded-endpoint randomized controlled trial evaluating whether early administration of methylene blue reduces mortality in patients with high-dose vasopressor-dependent septic shock.
 
 <table class="design">
-  <tr><td>Design</td><td>Investigator-initiated, multicenter, open-label, blinded-endpoint RCT</td></tr>
-  <tr><td>Population</td><td>Adult patients with septic shock requiring norepinephrine-equivalent doses &gt; 0.3 μg/kg/min within 24 h of vasopressor initiation</td></tr>
-  <tr><td>Sample size</td><td>566 patients, randomized 1:1</td></tr>
-  <tr><td>Intervention</td><td>Methylene blue 2 mg/kg loading dose, followed by 0.25 mg/kg/h maintenance infusion (up to 48 h or 4 h after vasopressor discontinuation)</td></tr>
-  <tr><td>Control</td><td>Equal volume 5% dextrose</td></tr>
-  <tr><td>Randomization</td><td>Stratified by baseline SOFA-1 score and study center</td></tr>
-  <tr><td>Primary outcome</td><td>28-day all-cause mortality</td></tr>
-  <tr><td>Secondary outcomes</td><td>ICU-free days, vasopressor-free days, ventilator-free days, in-hospital mortality, and SOFA score improvement</td></tr>
-  <tr><td>Study centers</td><td>&gt; 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs)</td></tr>
-  <tr><td>Coordinator / Sponsor</td><td>Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital (University of Electronic Science and Technology of China)</td></tr>
-  <tr><td>Ethics approval</td><td>Central ethics committee approval (No. 2025-583)</td></tr>
+<tr><td>Design</td><td>Investigator-initiated, multicenter, open-label, blinded-endpoint RCT</td></tr>
+<tr><td>Population</td><td>Adult patients with septic shock requiring norepinephrine-equivalent doses &gt; 0.3 μg/kg/min within 24 h of vasopressor initiation</td></tr>
+<tr><td>Sample size</td><td>566 patients, randomized 1:1</td></tr>
+<tr><td>Intervention</td><td>Methylene blue 2 mg/kg loading dose, followed by 0.25 mg/kg/h maintenance infusion (up to 48 h or 4 h after vasopressor discontinuation)</td></tr>
+<tr><td>Control</td><td>Equal volume 5% dextrose</td></tr>
+<tr><td>Randomization</td><td>Stratified by baseline SOFA-1 score and study center</td></tr>
+<tr><td>Primary outcome</td><td>28-day all-cause mortality</td></tr>
+<tr><td>Secondary outcomes</td><td>ICU-free days, vasopressor-free days, ventilator-free days, in-hospital mortality, and SOFA score improvement</td></tr>
+<tr><td>Study centers</td><td>&gt; 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs)</td></tr>
+<tr><td>Coordinator / Sponsor</td><td>Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital (University of Electronic Science and Technology of China)</td></tr>
+<tr><td>Ethics approval</td><td>Central ethics committee approval (No. 2025-583)</td></tr>
 </table>
 
 ## Related Documents {#protocol}
 
 <ul class="file-list">
-  <li><a href="../../files/protocols/EMPRESS_protocol_zh.pdf">Chinese protocol (PDF)</a> &mdash; EMPRESS study protocol, final version</li>
-  <li><a href="../../files/protocols/EMPRESS_protocol_en.pdf">English protocol (PDF)</a> &mdash; Scand J Trauma Resusc Emerg Med 2026;34:44, published version</li>
-  <li><a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">Protocol online</a> &mdash; doi:10.1186/s13049-026-01563-y (open access, CC BY 4.0)</li>
-  <li>Statistical Analysis Plan (SAP) &mdash; to be released</li>
-  <li>Interim reports &mdash; to be released</li>
+<li><a href="../../files/protocols/EMPRESS_protocol_zh.pdf">Chinese protocol (PDF)</a> &mdash; EMPRESS study protocol, final version</li>
+<li><a href="../../files/protocols/EMPRESS_protocol_en.pdf">English protocol (PDF)</a> &mdash; Scand J Trauma Resusc Emerg Med 2026;34:44, published version</li>
+<li><a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">Protocol online</a> &mdash; doi:10.1186/s13049-026-01563-y (open access, CC BY 4.0)</li>
+<li>Statistical Analysis Plan (SAP) &mdash; to be released</li>
+<li>Interim reports &mdash; to be released</li>
 </ul>
 
 ## Members {#team}
@@ -53,13 +53,13 @@ The study is overseen by the network's [Steering Committee, Coordinating Committ
 Publicly verifiable milestones, updated as the study progresses.
 
 <ul class="timeline">
-  <li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2025-11-20</span>Protocol submitted to <em>Scand J Trauma Resusc Emerg Med</em><span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2026-01-19</span>Accepted by the journal<span class="tl-tag">Done</span></li>
-  <li><span class="tl-date">2026</span>Protocol published (Scand J Trauma Resusc Emerg Med 2026;34:44, open access)<span class="tl-tag">Published</span></li>
-  <li><span class="tl-date">2026</span>Multicenter site initiation and patient enrollment ongoing<span class="tl-tag">Ongoing</span></li>
-  <li><span class="tl-date">TBD</span>Enrollment completion and publication of results<span class="tl-tag">Planned</span></li>
+<li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2025-11-20</span>Protocol submitted to <em>Scand J Trauma Resusc Emerg Med</em><span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2026-01-19</span>Accepted by the journal<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2026</span>Protocol published (Scand J Trauma Resusc Emerg Med 2026;34:44, open access)<span class="tl-tag">Published</span></li>
+<li><span class="tl-date">2026</span>Multicenter site initiation and patient enrollment ongoing<span class="tl-tag">Ongoing</span></li>
+<li><span class="tl-date">TBD</span>Enrollment completion and publication of results<span class="tl-tag">Planned</span></li>
 </ul>
 
 ## Additional Materials
