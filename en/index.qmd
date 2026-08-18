@@ -56,7 +56,7 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 <div class="gov-card">
 <h3>Data Safety Monitoring Board <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
 <ul>
-<li>Ignacio Martin-Loeches (Ireland &middot; Chair)</li>
+<li>Ignacio Martin-Loeches (Ireland &middot; St James's Hospital / Trinity College Dublin &middot; Chair)</li>
 <li>Longxiang Su (Peking Union Medical College Hospital, Chinese Academy of Medical Sciences)</li>
 <li>Xiaobo Yang (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan)</li>
 </ul>
