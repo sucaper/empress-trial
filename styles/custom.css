@@ -1,0 +1,41 @@
+/* ===== Hero ===== */
+.hero { text-align: center; padding: 2.8rem 0 1.6rem; }
+.hero-logo { max-width: 340px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 6px 24px rgba(0,0,0,.10); }
+.hero-title { font-size: 2.6rem; font-weight: 700; color: #0B2AC0; margin: 1.4rem 0 .5rem; letter-spacing: .02em; }
+.hero-sub { font-size: 1.12rem; color: #495057; max-width: 860px; margin: 0 auto 1.3rem; line-height: 1.8; }
+.hero-badges .badge { display: inline-block; background: #eef1ff; color: #0B2AC0; border: 1px solid #c9d2ff; border-radius: 999px; padding: .32rem .95rem; margin: .25rem .2rem; font-size: .85rem; }
+body:has(.hero) header#title-block-header { display: none; }
+
+/* ===== 章节 ===== */
+section.with-margin, div.section { scroll-margin-top: 80px; }
+h2 { color: #0B2AC0; margin-top: 2.4rem; padding-bottom: .35rem; border-bottom: 2px solid #eef1ff; }
+h3 { color: #1f2937; }
+
+/* ===== 设计表 ===== */
+table.design { width: 100%; border-collapse: collapse; margin: 1.2rem 0 1.8rem; }
+table.design td { border: 1px solid #dee2e6; padding: .55rem .9rem; vertical-align: top; }
+table.design td:first-child { background: #f4f6ff; font-weight: 600; color: #0B2AC0; width: 160px; white-space: nowrap; }
+
+/* ===== 下载按钮 ===== */
+.download-box { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.4rem 0; }
+.btn-dl { display: inline-block; padding: .7rem 1.4rem; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all .15s ease; }
+.btn-dl.primary { background: #0B2AC0; color: #fff; }
+.btn-dl.primary:hover { background: #091f8f; color: #fff; }
+.btn-dl.outline { background: #fff; color: #0B2AC0; border: 2px solid #0B2AC0; }
+.btn-dl.outline:hover { background: #eef1ff; }
+.btn-dl .small { display: block; font-weight: 400; font-size: .78rem; opacity: .85; margin-top: .15rem; }
+
+/* ===== 时间线 ===== */
+.timeline { list-style: none; margin: 1.6rem 0; padding: 0; border-left: 3px solid #0B2AC0; margin-left: .35rem; }
+.timeline li { position: relative; padding: .1rem 0 .95rem 1.5rem; }
+.timeline li::before { content: ""; position: absolute; left: -1.56rem; top: .45rem; width: 12px; height: 12px; border-radius: 50%; background: #0B2AC0; border: 2px solid #fff; box-shadow: 0 0 0 2px #0B2AC0; }
+.timeline .tl-date { font-weight: 700; color: #0B2AC0; margin-right: .6rem; }
+.timeline .tl-tag { display: inline-block; background: #eef1ff; color: #0B2AC0; border-radius: 4px; font-size: .78rem; padding: .08rem .5rem; margin-left: .4rem; }
+
+/* ===== 联系人卡片 ===== */
+.contact-card { background: #f8f9fa; border: 1px solid #dee2e6; border-left: 4px solid #0B2AC0; border-radius: 8px; padding: 1.1rem 1.4rem; margin: .9rem 0; }
+.contact-card .name { font-weight: 700; color: #0B2AC0; }
+.contact-card .role { font-size: .85rem; color: #6c757d; margin-left: .5rem; }
+
+/* ===== 注 ===== */
+.footnote-note { font-size: .88rem; color: #6c757d; margin-top: 2rem; border-top: 1px solid #e9ecef; padding-top: .8rem; }

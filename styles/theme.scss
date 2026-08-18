@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+$primary: #0B2AC0;
+$link-color: #0B2AC0;
+$navbar-bg: #ffffff;
+$navbar-fg: #0B2AC0;
+$navbar-hl: #0B2AC0;
+$body-bg: #ffffff;
+$body-color: #212529;
+$font-family-sans-serif: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #e9ecef; }
+.navbar-brand { font-weight: 700; color: #0B2AC0 !important; }

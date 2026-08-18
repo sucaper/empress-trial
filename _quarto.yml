@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "EMPRESS"
+  navbar:
+    left:
+      - text: "首页"
+        href: index.qmd
+      - text: "研究简介"
+        href: index.qmd#about
+      - text: "研究方案"
+        href: index.qmd#protocol
+      - text: "研究团队"
+        href: index.qmd#team
+      - text: "研究进展"
+        href: index.qmd#progress
+      - text: "联系方式"
+        href: index.qmd#contact
+    right:
+      - text: "English"
+        href: en/index.html
+  page-footer:
+    left: "© 2026 EMPRESS 研究"
+    center: "ChiCTR2500112352"
+    right: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+
+format:
+  html:
+    theme: [cosmo, styles/theme.scss]
+    css: styles/custom.css
+    toc: false

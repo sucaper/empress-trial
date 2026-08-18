@@ -1,0 +1,137 @@
+---
+title: "EMPRESS 研究"
+lang: zh-CN
+---
+
+<div class="hero">
+  <img src="images/logo.jpg" alt="EMPRESS 研究 Logo" class="hero-logo" />
+  <h1 class="hero-title">EMPRESS 研究</h1>
+  <p class="hero-sub">
+    早期应用亚甲蓝改善依赖高剂量升压药支持的感染性休克患者病死率<br/>
+    —— 一项多中心随机对照试验方案（EMPRESS）
+  </p>
+  <div class="hero-badges">
+    <span class="badge">注册号 ChiCTR2500112352</span>
+    <span class="badge">Scand J Trauma Resusc Emerg Med 2026;34:44</span>
+    <span class="badge">开放获取 · CC BY 4.0</span>
+  </div>
+</div>
+
+## 研究简介 {#about}
+
+感染性休克仍是急诊和重症监护室最致命的疾病之一，其病理生理机制与一氧化氮激活可溶性鸟苷酸环化酶通路（NO–sGC–cGMP 通路）介导的失控性血管扩张密切相关。亚甲蓝（Methylene Blue, MB）通过抑制该通路已显示出血流动力学获益，可能作为特别针对需要高剂量升压药的感染性休克患者的靶向辅助治疗——这一严重血管麻痹亚群具有显著升高的病死率。
+
+**EMPRESS**（Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock）是一项研究者发起、多中心、开放标签、终点设盲的随机对照试验，旨在评估早期亚甲蓝给药能否降低高剂量升压药依赖的感染性休克患者的病死率。
+
+<table class="design">
+  <tr><td>研究设计</td><td>研究者发起、多中心、开放标签、终点设盲的随机对照试验</td></tr>
+  <tr><td>目标人群</td><td>升压药启动 24 h 内去甲肾上腺素等效剂量 &gt; 0.3 μg/kg/min 的成年感染性休克患者</td></tr>
+  <tr><td>样本量</td><td>566 例，按 1:1 随机分组</td></tr>
+  <tr><td>干预组</td><td>亚甲蓝 2 mg/kg 负荷剂量，随后 0.25 mg/kg/h 维持输注（最多 48 h 或升压药停用后 4 h）</td></tr>
+  <tr><td>对照组</td><td>等体积 5% 葡萄糖</td></tr>
+  <tr><td>随机化分层</td><td>基线 SOFA-1 评分和研究中心</td></tr>
+  <tr><td>主要终点</td><td>28 天全因病死率</td></tr>
+  <tr><td>次要终点</td><td>无 ICU 天数、无升压药天数、无呼吸机天数、住院病死率、SOFA 评分改善</td></tr>
+  <tr><td>研究中心</td><td>中国 50 余个三级医院中心（急诊、呼吸、内科、外科等 ICU）</td></tr>
+  <tr><td>协调 / 申办</td><td>四川省医学科学院·四川省人民医院（电子科技大学附属）</td></tr>
+  <tr><td>伦理审批</td><td>中央伦理委员会批准（批准号 2025-583）</td></tr>
+</table>
+
+## 研究方案 {#protocol}
+
+研究方案的中英文全文均可直接下载；英文版为正式发表稿，以开放获取（CC BY 4.0）形式发布，也可通过 DOI 在线访问原文。
+
+<div class="download-box">
+  <a class="btn-dl primary" href="protocol/EMPRESS_protocol_zh.pdf">
+    中文版方案 PDF
+    <span class="small">EMPRESS 研究主方案（最终发表版）</span>
+  </a>
+  <a class="btn-dl primary" href="protocol/EMPRESS_protocol_en.pdf">
+    英文版方案 PDF
+    <span class="small">SJTREM 2026;34:44 · 正式发表稿</span>
+  </a>
+  <a class="btn-dl outline" href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">
+    在线访问原文
+    <span class="small">https://doi.org/10.1186/s13049-026-01563-y</span>
+  </a>
+</div>
+
+## 研究团队 {#team}
+
+本方案由来自中国、英国、智利、墨西哥和法国的 13 位研究者共同完成。**共同第一作者**：Jing-chao Luo（罗竞超）、Li Ma（马丽）、Ming-hao Luo（罗明浩）；**通讯作者**：Mei Meng（孟玫）、Eduardo Kattan、Sen Lu（卢森）。
+
+| 作者（发表版顺序） | 单位编号 |
+|:---|:---:|
+| Jing-chao Luo † | 1, 2 |
+| Li Ma † | 3 |
+| Ming-hao Luo † | 6, 7 |
+| Miguel Ibarra-Estrada | 9, 10, 11 |
+| Pei-jing Yan（严培晶） | 4 |
+| Zheng-ang Zhang（张正昂） | 2 |
+| Mei Meng \* | 5 |
+| Eduardo Kattan \* | 8, 9 |
+| Sen Lu \* | 1 |
+| Chun Pan（潘纯） | 1 |
+| Jean-Louis Teboul | 12 |
+| Glenn Hernández | 8, 9 |
+| Xiao-bo Huang（黄晓波） | 1 |
+
+† 共同第一作者；\* 通讯作者。
+
+**单位列表**
+
+1. **四川省医学科学院·四川省人民医院（电子科技大学附属）重症医学科** — Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China
+2. 凉山彝族自治州第一人民医院重症医学科 — Department of Critical Care Medicine, First People's Hospital of Liangshan Yi Autonomous Prefecture, Xichang, China
+3. 四川省医学科学院·四川省人民医院（电子科技大学附属）医务部 — Medical Administration Department, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China
+4. 四川省医学科学院·四川省人民医院（电子科技大学附属）临床研究中心 — Clinical Research Center, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China
+5. 上海交通大学医学院附属第九人民医院重症医学科 — Department of Intensive Care Medicine, School of Medicine, Shanghai Ninth People's Hospital, Shanghai Jiaotong University, Shanghai, China
+6. 英国牛津大学纳菲尔德人群健康系 — Nuffield Department of Population Health, University of Oxford, Oxford, UK
+7. 英国伦敦 Harefield 医院麻醉与重症科（Guy's and St Thomas' NHS 基金会医院） — Department of Anaesthetic and Critical Care, Harefield Hospital, Heart, Lung and Critical Care Group, Guy's and St Thomas' NHS Foundation Trust, London, UK
+8. 智利天主教大学医学院重症医学科 — Departamento de Medicina Intensiva, Facultad de Medicina, Pontificia Universidad Católica de Chile, Santiago, Chile
+9. 拉丁美洲重症监护网络（LIVEN）— The Latin American Intensive Care Network (LIVEN), Santiago, Chile
+10. 墨西哥瓜达拉哈拉大学 Fray Antonio Alcalde 市民医院重症监护病房 — Unidad de Terapia Intensiva, Hospital Civil Fray Antonio Alcalde, Universidad de Guadalajara, Guadalajara, Jalisco, México
+11. 墨西哥 Jalisco 肿瘤研究所 — Instituto Jalisciense de Cancerología, Guadalajara, Jalisco, Mexico
+12. 法国巴黎-萨克雷大学医学院 — Faculté de Médecine, Université Paris-Saclay, Le Kremlin-Bicêtre, France
+
+## 研究进展 {#progress}
+
+以下为可公开查证的里程碑信息，将随研究推进持续更新。
+
+<ul class="timeline">
+  <li><span class="tl-date">2025 年</span>中央伦理委员会批准（批准号 2025-583）<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2025-11-12</span>在中国临床试验注册中心完成注册（ChiCTR2500112352）<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2025-11-20</span>英文方案投稿《Scand J Trauma Resusc Emerg Med》<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2026-01-19</span>方案被期刊接收<span class="tl-tag">已完成</span></li>
+  <li><span class="tl-date">2026</span>英文方案正式发表（Scand J Trauma Resusc Emerg Med 2026;34:44，开放获取）<span class="tl-tag">已发表</span></li>
+  <li><span class="tl-date">2026</span>多中心启动与受试者入组进行中<span class="tl-tag">进行中</span></li>
+  <li><span class="tl-date">待更新</span>完成入组、结果发表<span class="tl-tag">规划中</span></li>
+</ul>
+
+## 联系方式 {#contact}
+
+如有研究合作、入组咨询或信息更正需求，请联系：
+
+<div class="contact-card">
+  <div><span class="name">Mei Meng（孟玫）</span><span class="role">通讯作者 · 上海交通大学医学院附属第九人民医院</span></div>
+  <div><a href="mailto:15168887139@163.com">15168887139@163.com</a></div>
+</div>
+
+<div class="contact-card">
+  <div><span class="name">Eduardo Kattan</span><span class="role">通讯作者 · 智利天主教大学 / LIVEN</span></div>
+  <div><a href="mailto:e.kattan@gmail.com">e.kattan@gmail.com</a></div>
+</div>
+
+<div class="contact-card">
+  <div><span class="name">Sen Lu（卢森）</span><span class="role">通讯作者 · 四川省医学科学院·四川省人民医院重症医学科</span></div>
+  <div><a href="mailto:lu.sen.cool@163.com">lu.sen.cool@163.com</a></div>
+</div>
+
+**试验注册与原文链接**
+
+- 中国临床试验注册中心：[ChiCTR2500112352](https://www.chictr.org.cn/)（检索注册号即可）
+- 方案原文：[Scand J Trauma Resusc Emerg Med 2026;34:44](https://doi.org/10.1186/s13049-026-01563-y)
+
+<div class="footnote-note">
+**建议引用**：Luo JC, Ma L, Luo MH, Ibarra-Estrada M, Yan PJ, Zhang ZA, et al. Early Methylene Blue for Mortality Reduction in High-Dose VasoPREssor-Dependent Septic Shock (EMPRESS): protocol for a multicenter randomized controlled trial. Scand J Trauma Resusc Emerg Med. 2026;34:44. doi:10.1186/s13049-026-01563-y.
+英文方案以 CC BY 4.0 开放获取发布；本站内容基于该方案整理，如与发表稿不一致，以发表稿为准。
+</div>
