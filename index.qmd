@@ -26,24 +26,44 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
 
 <div class="gov-grid">
 <div class="gov-card">
-<h3>指导委员会</h3>
-<p>国内外专家 11 位，把握科学方向、审批方案修订与关键决策。</p>
-<p><a class="btn-dl primary" href="members.html#steering">查看成员 →</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></p>
+<h3>指导委员会 <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></h3>
+<p><strong>中国国内</strong></p>
+<ul>
+<li>黄晓波（四川省医学科学院·四川省人民医院）</li>
+<li>潘纯（四川省医学科学院·四川省人民医院）</li>
+<li>罗竞超（四川省医学科学院·四川省人民医院）</li>
+<li>孟玫（上海交通大学医学院附属第九人民医院）</li>
+<li>蒋永泼（浙江省台州医院）</li>
+<li>郭熙（山东大学齐鲁医院（第三院区））</li>
+</ul>
+<p><strong>海外</strong></p>
+<ul>
+<li>罗明豪（英国）</li>
+<li>Jean-Louis Teboul（法国 · 巴黎-萨克雷大学）</li>
+<li>Glenn Hernández（智利 · 天主教大学）</li>
+<li>Miguel Ibarra-Estrada（墨西哥 · 瓜达拉哈拉大学）</li>
+<li>Eduardo Kattan（智利 · 天主教大学）</li>
+</ul>
 </div>
 <div class="gov-card">
-<h3>协调委员会</h3>
-<p>负责网络日常运营、中心协调与数据质量管理（含项目经理）。</p>
-<p><a class="btn-dl primary" href="members.html#coordinating">查看成员 →</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></p>
+<h3>协调委员会 <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></h3>
+<ul>
+<li>罗竞超（四川省医学科学院·四川省人民医院）</li>
+<li>卢森（四川省医学科学院·四川省人民医院）</li>
+<li>宋健（上海市第四人民医院）</li>
+</ul>
 </div>
 <div class="gov-card">
-<h3>数据安全监查委员会</h3>
-<p>独立监查安全性与有效性数据，评估获益-风险。</p>
-<p><a class="btn-dl primary" href="members.html#dsmb">查看成员 →</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></p>
+<h3>数据安全监查委员会 <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></h3>
+<ul>
+<li>Ignacio Martin-Loeches（爱尔兰 · 主席）</li>
+<li>苏龙翔（中国医学科学院北京协和医院）</li>
+<li>杨小博（华中科技大学同济医学院附属协和医院）</li>
+</ul>
 </div>
 <div class="gov-card">
-<h3>参与中心</h3>
-<p>EMPRESS 研究在中国 50 余个三级医院中心开展（急诊、呼吸、内科、外科等 ICU）。</p>
-<p><a class="btn-dl primary" href="members.html#centers">查看详情 →</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></p>
+<h3>参与中心 <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/members.qmd" target="_blank" rel="noopener">编辑</a></h3>
+<p>EMPRESS 研究在中国 50 余个三级医院中心开展（急诊、呼吸、内科、外科等 ICU）。参与中心名单经协调委员会确认后在此公布。</p>
 </div>
 </div>
 

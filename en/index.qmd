@@ -26,24 +26,44 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 
 <div class="gov-grid">
 <div class="gov-card">
-<h3>Steering Committee</h3>
-<p>11 domestic and international experts providing scientific direction and approving key decisions.</p>
-<p><a class="btn-dl primary" href="members.html#steering">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+<h3>Steering Committee <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<p><strong>Domestic</strong></p>
+<ul>
+<li>Xiaobo Huang (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
+<li>Chun Pan (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
+<li>Jingchao Luo (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
+<li>Mei Meng (Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine)</li>
+<li>Yongpo Jiang (Taizhou Hospital of Zhejiang Province)</li>
+<li>Xi Guo (Qilu Hospital of Shandong University, Third Campus)</li>
+</ul>
+<p><strong>International</strong></p>
+<ul>
+<li>Minghao Luo (United Kingdom)</li>
+<li>Jean-Louis Teboul (France &middot; Universit&eacute; Paris-Saclay)</li>
+<li>Glenn Hern&aacute;ndez (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile)</li>
+<li>Miguel Ibarra-Estrada (Mexico &middot; Universidad de Guadalajara)</li>
+<li>Eduardo Kattan (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile)</li>
+</ul>
 </div>
 <div class="gov-card">
-<h3>Coordinating Committee</h3>
-<p>Manages daily operations, site coordination, and data quality (with a project manager).</p>
-<p><a class="btn-dl primary" href="members.html#coordinating">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+<h3>Coordinating Committee <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<ul>
+<li>Jingchao Luo (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
+<li>Sen Lu (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
+<li>Jian Song (Shanghai Fourth People's Hospital)</li>
+</ul>
 </div>
 <div class="gov-card">
-<h3>Data Safety Monitoring Board</h3>
-<p>Independently monitors safety and efficacy data and assesses benefit-risk.</p>
-<p><a class="btn-dl primary" href="members.html#dsmb">View members &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+<h3>Data Safety Monitoring Board <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<ul>
+<li>Ignacio Martin-Loeches (Ireland &middot; Chair)</li>
+<li>Longxiang Su (Peking Union Medical College Hospital, Chinese Academy of Medical Sciences)</li>
+<li>Xiaobo Yang (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan)</li>
+</ul>
 </div>
 <div class="gov-card">
-<h3>Participating Centers</h3>
-<p>The EMPRESS study is conducted at more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs).</p>
-<p><a class="btn-dl primary" href="members.html#centers">View details &rarr;</a> <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></p>
+<h3>Participating Centers <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<p>The EMPRESS study is conducted at more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs). The list of participating centers will be published here once confirmed by the Coordinating Committee.</p>
 </div>
 </div>
 

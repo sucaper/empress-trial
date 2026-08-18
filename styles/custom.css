@@ -123,3 +123,11 @@ blockquote { border-left: 4px solid #0B2AC0; background: #f4f6ff; padding: .8rem
 /* ===== 编辑按钮（管理员） ===== */
 .edit-btn { display: inline-block; font-size: .78rem; font-weight: 600; color: #6c757d; border: 1px solid #ced4da; border-radius: 999px; padding: .22rem .85rem; margin-left: .5rem; vertical-align: middle; background: #fff; transition: all .15s ease; }
 .edit-btn:hover { color: #0B2AC0; border-color: #0B2AC0; background: #eef1ff; text-decoration: none; }
+
+
+/* ===== 成员板块：高度上限，超出滚动 ===== */
+.gov-card { max-height: 360px; overflow-y: auto; }
+.gov-card ul { margin: .4rem 0 .9rem; padding-left: 1.2rem; }
+.gov-card li { font-size: .92rem; line-height: 1.7; }
+.gov-card h3 { margin-bottom: .5rem; }
+.gov-card p { margin-bottom: .4rem; }
