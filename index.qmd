@@ -42,21 +42,6 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
   </div>
 </div>
 
-## 发布文件
-
-- 研究方案（中文 / 英文 PDF，含 DOI 在线访问）
-- 统计分析计划（SAP，待发布）
-- 中期报告（待发布）
-- 发表文献
-
-<div class="doc-box">
-  <strong>最新发布</strong>：EMPRESS 研究方案已正式发表（开放获取，CC BY 4.0）
-  · <a href="files/protocols/EMPRESS_protocol_zh.pdf">中文版 PDF</a>
-  · <a href="files/protocols/EMPRESS_protocol_en.pdf">英文版 PDF</a>
-  · <a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">DOI 原文</a>
-  · <a href="documents.html">发布文件页</a>
-</div>
-
 ## 最新动态
 
 <ul class="timeline">

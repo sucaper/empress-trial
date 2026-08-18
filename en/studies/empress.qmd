@@ -34,28 +34,19 @@ Septic shock remains one of the most lethal emergency and critical care conditio
   <tr><td>Ethics approval</td><td>Central ethics committee approval (No. 2025-583)</td></tr>
 </table>
 
-## Protocol {#protocol}
+## Related Documents {#protocol}
 
-Both the Chinese and English versions of the protocol are available for download. The English version is the published manuscript, released under open access (CC BY 4.0), and is also available online via DOI.
-
-<div class="download-box">
-  <a class="btn-dl primary" href="../../files/protocols/EMPRESS_protocol_zh.pdf">
-    Chinese protocol (PDF)
-    <span class="small">EMPRESS study protocol, final version</span>
-  </a>
-  <a class="btn-dl primary" href="../../files/protocols/EMPRESS_protocol_en.pdf">
-    English protocol (PDF)
-    <span class="small">SJTREM 2026;34:44 &middot; published version</span>
-  </a>
-  <a class="btn-dl outline" href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">
-    View online
-    <span class="small">https://doi.org/10.1186/s13049-026-01563-y</span>
-  </a>
-</div>
+<ul class="file-list">
+  <li><a href="../../files/protocols/EMPRESS_protocol_zh.pdf">Chinese protocol (PDF)</a> &mdash; EMPRESS study protocol, final version</li>
+  <li><a href="../../files/protocols/EMPRESS_protocol_en.pdf">English protocol (PDF)</a> &mdash; Scand J Trauma Resusc Emerg Med 2026;34:44, published version</li>
+  <li><a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">Protocol online</a> &mdash; doi:10.1186/s13049-026-01563-y (open access, CC BY 4.0)</li>
+  <li>Statistical Analysis Plan (SAP) &mdash; to be released</li>
+  <li>Interim reports &mdash; to be released</li>
+</ul>
 
 ## Governance and Team {#team}
 
-The study is overseen by the network's [Steering Committee, Coordinating Committee, and Data Safety Monitoring Board](governance.html); committee rosters are available on the [Governance](../governance.html) page.
+The study is overseen by the network's [Steering Committee, Coordinating Committee, and Data Safety Monitoring Board](../governance.html); committee rosters are available on the [Governance](../governance.html) page.
 
 ## Progress {#progress}
 
@@ -73,4 +64,4 @@ Publicly verifiable milestones, updated as the study progresses.
 
 ## Additional Materials
 
-The statistical analysis plan and interim reports will be published in the [Documents](../documents.html) section. For collaboration or enrollment inquiries, please use the [Contact](../contact.html) page.
+The statistical analysis plan and interim reports will be updated in the Related Documents section above as the study progresses. For collaboration or enrollment inquiries, please use the [Contact](../contact.html) page.

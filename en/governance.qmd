@@ -3,95 +3,47 @@ title: "Governance"
 lang: en
 ---
 
-The EMPRESS Research Network is governed by three bodies &mdash; the Steering Committee, the Coordinating Committee, and the Data Safety Monitoring Board (DSMB) &mdash; supported by a project manager. The roles are clearly defined and mutually balanced to safeguard scientific integrity and participant safety.
+The EMPRESS Research Network is governed by three bodies &mdash; the Steering Committee, the Coordinating Committee, and the Data Safety Monitoring Board (DSMB) &mdash; supported by a project manager.
 
 ## Steering Committee {#steering}
 
 **Responsibilities**: provide scientific direction; approve the protocol and important amendments; oversee overall study progress; make final decisions on key scientific issues (including sample size re-estimation and blinded data reviews).
 
-**Domestic members**
+**Domestic**
 
-| Name | Institution |
-|:---|:---|
-| Xiaobo Huang | Sichuan Provincial People's Hospital |
-| Chun Pan | Sichuan Provincial People's Hospital |
-| Jingchao Luo | Sichuan Provincial People's Hospital |
-| Mei Meng | Shanghai Ninth People's Hospital |
-| Yongpo Jiang | Taizhou Hospital |
-| Xi Guo | Qilu Third Hospital |
+- **Xiaobo Huang** (Sichuan Provincial People's Hospital) &mdash; Director of the Department of Critical Care Medicine; long-standing clinical and research leader in critical care
+- **Chun Pan** (Sichuan Provincial People's Hospital) &mdash; core member of the EMPRESS team focusing on severe infection and septic shock
+- **Jingchao Luo** (Sichuan Provincial People's Hospital) &mdash; co-first author of the EMPRESS protocol
+- **Mei Meng** (Shanghai Ninth People's Hospital) &mdash; corresponding author of the EMPRESS protocol
+- **Yongpo Jiang** (Taizhou Hospital)
+- **Xi Guo** (Qilu Third Hospital)
 
-**International members**
+**International**
 
-| Name | Institution |
-|:---|:---|
-| Minghao Luo | United Kingdom |
-| Jean-Louis Teboul | France &middot; Universit&eacute; Paris-Saclay |
-| Glenn Hern&aacute;ndez | Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile |
-| Miguel Ibarra-Estrada | Mexico &middot; Universidad de Guadalajara |
-| Eduardo Kattan | Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile |
-
-**Member profiles**
-
-<ul class="bio-list">
-  <li><span class="bio-name">Xiaobo Huang</span> Director, Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital; long-standing clinical and research leader in critical care, involved in multicenter studies on severe infection and hemodynamics.</li>
-  <li><span class="bio-name">Chun Pan</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; core member of the EMPRESS team focusing on severe infection and septic shock.</li>
-  <li><span class="bio-name">Jingchao Luo</span> Young investigator, Department of Critical Care Medicine, Sichuan Provincial People's Hospital; co-first author of the EMPRESS protocol; involved in septic shock research (e.g., recombinant human brain natriuretic peptide protocol, BMJ Open 2026).</li>
-  <li><span class="bio-name">Mei Meng</span> Attending/consultant physician, Department of Intensive Care Medicine, Shanghai Ninth People's Hospital; corresponding author of the EMPRESS protocol.</li>
-  <li><span class="bio-name">Yongpo Jiang</span> Taizhou Hospital, Zhejiang Province; domestic Steering Committee member (limited public academic record).</li>
-  <li><span class="bio-name">Xi Guo</span> Qilu Third Hospital, Shandong; domestic Steering Committee member (limited public academic record).</li>
-  <li><span class="bio-name">Minghao Luo</span> Nuffield Department of Population Health, University of Oxford, and Department of Anaesthetic and Critical Care, Harefield Hospital (Guy's and St Thomas' NHS Foundation Trust), UK; co-first author of the EMPRESS protocol.</li>
-  <li><span class="bio-name">Jean-Louis Teboul</span> Professor of intensive care medicine, Universit&eacute; Paris-Saclay (H&ocirc;pital de Bic&ecirc;tre), France; international authority on hemodynamic monitoring and septic shock resuscitation; long-standing collaborator in the ANDROMEDA-SHOCK studies.</li>
-  <li><span class="bio-name">Glenn Hern&aacute;ndez</span> Professor of intensive care medicine, Pontificia Universidad Cat&oacute;lica de Chile; principal investigator of the ANDROMEDA-SHOCK trials; authority on tissue-perfusion-guided resuscitation.</li>
-  <li><span class="bio-name">Miguel Ibarra-Estrada</span> Department of Intensive Care, Universidad de Guadalajara / Hospital Civil, Mexico; his team's randomized trial of methylene blue in septic shock (Crit Care 2023) demonstrated faster vasopressor weaning and is key prior evidence for EMPRESS.</li>
-  <li><span class="bio-name">Eduardo Kattan</span> Department of Intensive Care Medicine, Pontificia Universidad Cat&oacute;lica de Chile; core member of ANDROMEDA-SHOCK-2 and refractory septic shock research; member of the Latin American Intensive Care Network (LIVEN).</li>
-</ul>
+- **Minghao Luo** (United Kingdom) &mdash; Nuffield Department of Population Health, University of Oxford, and Harefield Hospital Anaesthetic and Critical Care; co-first author of the EMPRESS protocol
+- **Jean-Louis Teboul** (France &middot; Universit&eacute; Paris-Saclay) &mdash; authority on hemodynamic monitoring and septic shock resuscitation
+- **Glenn Hern&aacute;ndez** (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile) &mdash; principal investigator of the ANDROMEDA-SHOCK trials
+- **Miguel Ibarra-Estrada** (Mexico &middot; Universidad de Guadalajara) &mdash; principal investigator of a methylene blue RCT (Crit Care 2023), key prior evidence for EMPRESS
+- **Eduardo Kattan** (Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile) &mdash; core member of ANDROMEDA-SHOCK-2; member of the Latin American Intensive Care Network (LIVEN)
 
 ## Coordinating Committee {#coordinating}
 
 **Responsibilities**: day-to-day coordination of the network and study centers; site initiation and training; monitoring of enrollment progress and data quality; liaison with ethics committees and regulatory authorities.
 
-| Name | Institution |
-|:---|:---|
-| Jingchao Luo | Sichuan Provincial People's Hospital |
-| Sen Lu | Sichuan Provincial People's Hospital |
-| Jian Song | Shanghai Fourth People's Hospital |
+- **Jingchao Luo** (Sichuan Provincial People's Hospital)
+- **Sen Lu** (Sichuan Provincial People's Hospital) &mdash; corresponding author of the EMPRESS protocol
+- **Jian Song** (Shanghai Fourth People's Hospital)
 
-**Member profiles**
+## Project Manager {#project-management}
 
-<ul class="bio-list">
-  <li><span class="bio-name">Jingchao Luo</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; co-first author of the EMPRESS protocol (see Steering Committee).</li>
-  <li><span class="bio-name">Sen Lu</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; corresponding author of the EMPRESS protocol.</li>
-  <li><span class="bio-name">Jian Song</span> Shanghai Fourth People's Hospital; Coordinating Committee member (limited public academic record).</li>
-</ul>
-
-## Project Management {#project-management}
-
-| Name | Institution | Role |
-|:---|:---|:---:|
-| Zhaoying Li | Sichuan Provincial People's Hospital | Project Manager |
-
-**Member profiles**
-
-<ul class="bio-list">
-  <li><span class="bio-name">Zhaoying Li</span> Department of Critical Care Medicine, Sichuan Provincial People's Hospital; project manager of the EMPRESS study, responsible for day-to-day coordination and project management.</li>
-</ul>
+- **Zhaoying Li** (Sichuan Provincial People's Hospital) &mdash; project manager, responsible for day-to-day coordination and project management
 
 ## Data Safety Monitoring Board (DSMB) {#dsmb}
 
 **Responsibilities**: independent of the study team, periodically review safety and efficacy data; assess benefit-risk against prespecified boundaries; advise the Steering Committee to continue, modify, or stop the study. Board members are not involved in study conduct.
 
-| Name | Institution | Role |
-|:---|:---|:---:|
-| Ignacio Martin-Loeches | Ireland | Chair |
-| Longxiang Su | Peking Union Medical College Hospital | Member |
-| Xiaobo Yang | Union Hospital, Tongji Medical College, Huazhong University of Science and Technology (Wuhan Union) | Member |
+- **Ignacio Martin-Loeches** (Ireland) &mdash; Chair; authority on severe infection and respiratory critical care, contributor to multiple international consensus statements
+- **Longxiang Su** (Peking Union Medical College Hospital) &mdash; tissue perfusion monitoring and critical care informatics
+- **Xiaobo Yang** (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan) &mdash; sepsis and severe infection
 
-**Member profiles**
-
-<ul class="bio-list">
-  <li><span class="bio-name">Ignacio Martin-Loeches</span> Professor of intensive care medicine, St James's Hospital / Trinity College Dublin, Ireland; authority on severe infection and respiratory critical care; contributor to international consensus statements including the SCCM/ESICM definition of refractory septic shock.</li>
-  <li><span class="bio-name">Longxiang Su</span> Department of Critical Care Medicine, Peking Union Medical College Hospital; research interests include tissue perfusion monitoring in circulatory shock and critical care informatics (e.g., tissue oxygen saturation and lactate clearance, large language models in critical care).</li>
-  <li><span class="bio-name">Xiaobo Yang</span> Department of Critical Care Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology (Wuhan Union); research interests include sepsis and severe infection (viral sepsis, pneumonia in immunocompromised hosts).</li>
-</ul>
-
-<div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026); public records for some members are limited. Any roster changes will be published here as confirmed by the network management team. For governance-related inquiries, please use the [Contact](contact.html) page.</div>
+<div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026). Any roster changes will be published here as confirmed by the network management team. For governance-related inquiries, please use the [Contact](contact.html) page.</div>

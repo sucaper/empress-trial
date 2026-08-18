@@ -15,9 +15,8 @@
 _quarto.yml            # 中文项目配置（导航/页脚/主题/logo）
 index.qmd              # 机构首页（中文）
 about.qmd              # 关于网络
-governance.qmd         # 治理架构：指导委员会/协调委员会/项目管理/DSMB
-studies/empress.qmd    # EMPRESS 研究详情
-documents.qmd          # 发布文件（方案/SAP/中期报告/发表文献）
+governance.qmd         # 治理架构：指导委员会/协调委员会/项目管理/DSMB（委员会名录）
+studies/empress.qmd    # EMPRESS 研究详情（含「相关文件发布」：一行一个文件）
 contact.qmd            # 联系我们
 en/_quarto.yml         # 英文项目配置（输出到 _site/en）
 en/                    # 英文页面镜像
@@ -32,7 +31,7 @@ styles/                # 主题（theme.scss）与自定义样式（custom.css�
 ## 常用操作
 
 - 本地预览：`quarto render` 后打开 `_site/index.html`，或 `quarto preview`
-- 发布文件：文件放入 `files/` 对应目录 → 在 `documents.qmd` 登记 → 推送
+- 发布文件：文件放入 `files/` 对应目录 → 在 `studies/empress.qmd` 的「相关文件发布」列表登记 → 推送
 - 添加组件：见 `_components/README.md`
 - 编辑权限与红线：见 `_admin/编辑权限说明.md`
 

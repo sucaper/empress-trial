@@ -34,24 +34,15 @@ lang: zh-CN
   <tr><td>伦理审批</td><td>中央伦理委员会批准（批准号 2025-583）</td></tr>
 </table>
 
-## 研究方案 {#protocol}
+## 相关文件发布 {#protocol}
 
-研究方案的中英文全文均可直接下载；英文版为正式发表稿，以开放获取（CC BY 4.0）形式发布，也可通过 DOI 在线访问原文。
-
-<div class="download-box">
-  <a class="btn-dl primary" href="../files/protocols/EMPRESS_protocol_zh.pdf">
-    中文版方案 PDF
-    <span class="small">EMPRESS 研究主方案（最终发表版）</span>
-  </a>
-  <a class="btn-dl primary" href="../files/protocols/EMPRESS_protocol_en.pdf">
-    英文版方案 PDF
-    <span class="small">SJTREM 2026;34:44 · 正式发表稿</span>
-  </a>
-  <a class="btn-dl outline" href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">
-    在线访问原文
-    <span class="small">https://doi.org/10.1186/s13049-026-01563-y</span>
-  </a>
-</div>
+<ul class="file-list">
+  <li><a href="../files/protocols/EMPRESS_protocol_zh.pdf">中文版研究方案（PDF）</a> —— EMPRESS 研究主方案（最终发表版）</li>
+  <li><a href="../files/protocols/EMPRESS_protocol_en.pdf">英文版研究方案（PDF）</a> —— Scand J Trauma Resusc Emerg Med 2026;34:44 正式发表稿</li>
+  <li><a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">方案在线原文</a> —— doi:10.1186/s13049-026-01563-y（开放获取，CC BY 4.0）</li>
+  <li>统计分析计划（SAP）—— 待发布</li>
+  <li>中期报告 —— 待发布</li>
+</ul>
 
 ## 治理与团队 {#team}
 
@@ -73,4 +64,4 @@ lang: zh-CN
 
 ## 更多资料
 
-统计分析计划、中期报告等文件将在[发布文件](../documents.html)栏目发布。研究合作与入组咨询请通过[联系我们](../contact.html)页面联系。
+统计分析计划、中期报告等文件将随研究进展在本页「相关文件发布」栏目更新。研究合作与入组咨询请通过[联系我们](../contact.html)页面联系。

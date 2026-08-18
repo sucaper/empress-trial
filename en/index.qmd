@@ -42,21 +42,6 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
   </div>
 </div>
 
-## Documents
-
-- Study protocol (Chinese / English PDF, DOI link for online access)
-- Statistical analysis plan (SAP, to be released)
-- Interim reports (to be released)
-- Publications
-
-<div class="doc-box">
-  <strong>Latest release</strong>: The EMPRESS protocol has been published (open access, CC BY 4.0)
-  &middot; <a href="files/protocols/EMPRESS_protocol_zh.pdf">Chinese PDF</a>
-  &middot; <a href="files/protocols/EMPRESS_protocol_en.pdf">English PDF</a>
-  &middot; <a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">DOI article</a>
-  &middot; <a href="documents.html">Documents page</a>
-</div>
-
 ## Latest News
 
 <ul class="timeline">

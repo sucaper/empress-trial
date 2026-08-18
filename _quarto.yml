@@ -22,8 +22,6 @@ website:
         href: studies/empress.qmd
       - text: "治理"
         href: governance.qmd
-      - text: "发布文件"
-        href: documents.qmd
       - text: "联系"
         href: contact.qmd
   page-footer:

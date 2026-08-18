@@ -15,8 +15,6 @@ website:
         href: studies/empress.qmd
       - text: "Governance"
         href: governance.qmd
-      - text: "Documents"
-        href: documents.qmd
       - text: "Contact"
         href: contact.qmd
   page-footer:
