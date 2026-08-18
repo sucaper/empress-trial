@@ -44,9 +44,9 @@ lang: zh-CN
   <li>中期报告 —— 待发布</li>
 </ul>
 
-## 治理与团队 {#team}
+## 相关成员 {#team}
 
-研究由网络[指导委员会、协调委员会与数据安全监查委员会](governance.html)监督实施，委员会名单详见[治理架构](../governance.html)。
+研究由网络[指导委员会、协调委员会与数据安全监查委员会](../members.html)监督实施，委员会名单详见[相关成员](../members.html)。
 
 ## 研究进展 {#progress}
 

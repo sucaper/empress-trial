@@ -1,5 +1,5 @@
 ---
-title: "Governance"
+title: "Members"
 lang: en
 ---
 
@@ -46,4 +46,4 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 - **Longxiang Su** (Peking Union Medical College Hospital) &mdash; tissue perfusion monitoring and critical care informatics
 - **Xiaobo Yang** (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan) &mdash; sepsis and severe infection
 
-<div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026). Any roster changes will be published here as confirmed by the network management team. For governance-related inquiries, please use the [Contact](contact.html) page.</div>
+<div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026). Any roster changes will be published here as confirmed by the network management team. For member-related inquiries, please use the [Contact](contact.html) page.</div>

@@ -15,7 +15,7 @@
 _quarto.yml            # 中文项目配置（导航/页脚/主题/logo）
 index.qmd              # 机构首页（中文）
 about.qmd              # 关于网络
-governance.qmd         # 治理架构：指导委员会/协调委员会/项目管理/DSMB（委员会名录）
+members.qmd            # 相关成员：指导委员会/协调委员会/项目管理/DSMB（委员会名录）
 studies/empress.qmd    # EMPRESS 研究详情（含「相关文件发布」：一行一个文件）
 contact.qmd            # 联系我们
 en/_quarto.yml         # 英文项目配置（输出到 _site/en）

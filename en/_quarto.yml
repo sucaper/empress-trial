@@ -13,8 +13,8 @@ website:
         href: about.qmd
       - text: "Studies"
         href: studies/empress.qmd
-      - text: "Governance"
-        href: governance.qmd
+      - text: "Members"
+        href: members.qmd
       - text: "Contact"
         href: contact.qmd
   page-footer:

@@ -44,9 +44,9 @@ Septic shock remains one of the most lethal emergency and critical care conditio
   <li>Interim reports &mdash; to be released</li>
 </ul>
 
-## Governance and Team {#team}
+## Members {#team}
 
-The study is overseen by the network's [Steering Committee, Coordinating Committee, and Data Safety Monitoring Board](../governance.html); committee rosters are available on the [Governance](../governance.html) page.
+The study is overseen by the network's [Steering Committee, Coordinating Committee, and Data Safety Monitoring Board](../members.html); committee rosters are available on the [Members](../members.html) page.
 
 ## Progress {#progress}
 

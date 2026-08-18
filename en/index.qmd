@@ -22,23 +22,23 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
   <p><a class="btn-dl primary" href="studies/empress.html">View study details</a></p>
 </div>
 
-## Governance
+## Members
 
 <div class="gov-grid">
   <div class="gov-card">
     <h3>Steering Committee</h3>
     <p>11 domestic and international experts providing scientific direction and approving key decisions.</p>
-    <p><a href="governance.html#steering">View members &rarr;</a></p>
+    <p><a href="members.html#steering">View members &rarr;</a></p>
   </div>
   <div class="gov-card">
     <h3>Coordinating Committee</h3>
     <p>Manages daily operations, site coordination, and data quality (with a project manager).</p>
-    <p><a href="governance.html#coordinating">View members &rarr;</a></p>
+    <p><a href="members.html#coordinating">View members &rarr;</a></p>
   </div>
   <div class="gov-card">
     <h3>Data Safety Monitoring Board</h3>
     <p>Independently monitors safety and efficacy data and assesses benefit-risk.</p>
-    <p><a href="governance.html#dsmb">View members &rarr;</a></p>
+    <p><a href="members.html#dsmb">View members &rarr;</a></p>
   </div>
 </div>
 

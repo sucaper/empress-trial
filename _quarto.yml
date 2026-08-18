@@ -4,8 +4,7 @@ project:
   render:
     - index.qmd
     - about.qmd
-    - governance.qmd
-    - documents.qmd
+    - members.qmd
     - contact.qmd
     - studies/empress.qmd
 
@@ -20,8 +19,8 @@ website:
         href: about.qmd
       - text: "研究"
         href: studies/empress.qmd
-      - text: "治理"
-        href: governance.qmd
+      - text: "相关成员"
+        href: members.qmd
       - text: "联系"
         href: contact.qmd
   page-footer:

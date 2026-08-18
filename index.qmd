@@ -22,23 +22,23 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
   <p><a class="btn-dl primary" href="studies/empress.html">查看研究详情</a></p>
 </div>
 
-## 治理架构
+## 相关成员
 
 <div class="gov-grid">
   <div class="gov-card">
     <h3>指导委员会</h3>
     <p>国内外专家 11 位，把握科学方向、审批方案修订与关键决策。</p>
-    <p><a href="governance.html#steering">查看成员 →</a></p>
+    <p><a href="members.html#steering">查看成员 →</a></p>
   </div>
   <div class="gov-card">
     <h3>协调委员会</h3>
     <p>负责网络日常运营、中心协调与数据质量管理（含项目经理）。</p>
-    <p><a href="governance.html#coordinating">查看成员 →</a></p>
+    <p><a href="members.html#coordinating">查看成员 →</a></p>
   </div>
   <div class="gov-card">
     <h3>数据安全监查委员会</h3>
     <p>独立监查安全性与有效性数据，评估获益-风险。</p>
-    <p><a href="governance.html#dsmb">查看成员 →</a></p>
+    <p><a href="members.html#dsmb">查看成员 →</a></p>
   </div>
 </div>
 
