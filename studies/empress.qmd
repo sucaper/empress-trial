@@ -54,9 +54,9 @@ lang: zh-CN
   </a>
 </div>
 
-## 研究团队 {#team}
+## 治理与团队 {#team}
 
-本方案由来自中国、英国、智利、墨西哥和法国的 13 位研究者共同完成。**共同第一作者**：Jing-chao Luo（罗竞超）、Li Ma（马丽）、Ming-hao Luo（罗明浩）；**通讯作者**：Mei Meng（孟玫）、Eduardo Kattan、Sen Lu（卢森）。完整名单与单位请见[成员页面](members/index.html)。
+研究由网络[指导委员会、协调委员会与数据安全监查委员会](governance.html)监督实施，委员会名单详见[治理架构](../governance.html)。
 
 ## 研究进展 {#progress}
 
@@ -74,4 +74,4 @@ lang: zh-CN
 
 ## 更多资料
 
-统计分析计划、中期报告等文件将在[发布文件](documents.html)栏目发布。研究合作与入组咨询请通过[联系我们](contact.html)页面联系。
+统计分析计划、中期报告等文件将在[发布文件](../documents.html)栏目发布。研究合作与入组咨询请通过[联系我们](../contact.html)页面联系。

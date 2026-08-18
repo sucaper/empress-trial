@@ -5,36 +5,57 @@ lang: en
 
 <div class="lang-switch"><a href="../governance.html">中文</a></div>
 
-The EMPRESS Research Network is governed by three bodies with clear, mutually balanced responsibilities to safeguard scientific integrity and participant safety. Committee membership will be announced here once confirmed by the network management team.
+The EMPRESS Research Network is governed by three bodies &mdash; the Steering Committee, the Coordinating Committee, and the Data Safety Monitoring Board (DSMB) &mdash; supported by a project manager. The roles are clearly defined and mutually balanced to safeguard scientific integrity and participant safety.
 
 ## Steering Committee {#steering}
 
 **Responsibilities**: provide scientific direction; approve the protocol and important amendments; oversee overall study progress; make final decisions on key scientific issues (including sample size re-estimation and blinded data reviews).
 
-| Name | Institution | Role |
-|:---|:---|:---:|
-| TBD | &mdash; | Chair |
-| TBD | &mdash; | Member |
-| TBD | &mdash; | Member |
+**Domestic members**
+
+| Name | Institution |
+|:---|:---|
+| Xiaobo Huang | Sichuan Provincial People's Hospital |
+| Chun Pan | Sichuan Provincial People's Hospital |
+| Jingchao Luo | Sichuan Provincial People's Hospital |
+| Mei Meng | Shanghai Ninth People's Hospital |
+| Yongpo Jiang | Taizhou Hospital |
+| Xi Guo | Qilu Third Hospital |
+
+**International members**
+
+| Name | Institution |
+|:---|:---|
+| Minghao Luo | United Kingdom |
+| Jean-Louis Teboul | France &middot; Universit&eacute; Paris-Saclay |
+| Glenn Hern&aacute;ndez | Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile |
+| Miguel Ibarra-Estrada | Mexico &middot; Universidad de Guadalajara |
+| Eduardo Kattan | Chile &middot; Pontificia Universidad Cat&oacute;lica de Chile |
 
 ## Coordinating Committee {#coordinating}
 
 **Responsibilities**: day-to-day coordination of the network and study centers; site initiation and training; monitoring of enrollment progress and data quality; liaison with ethics committees and regulatory authorities.
 
+| Name | Institution |
+|:---|:---|
+| Jingchao Luo | Sichuan Provincial People's Hospital |
+| Sen Lu | Sichuan Provincial People's Hospital |
+| Jian Song | Shanghai Fourth People's Hospital |
+
+## Project Management {#project-management}
+
 | Name | Institution | Role |
 |:---|:---|:---:|
-| TBD | &mdash; | Chair |
-| TBD | &mdash; | Member |
-| TBD | &mdash; | Member |
+| Zhaoying Li | Sichuan Provincial People's Hospital | Project Manager |
 
 ## Data Safety Monitoring Board (DSMB) {#dsmb}
 
-**Responsibilities**: independent of the study team, periodically review safety and efficacy data; assess benefit-risk against prespecified boundaries; advise the Steering Committee to continue, modify, or stop the study. Board members are not involved in study conduct; at least one member is an independent statistician.
+**Responsibilities**: independent of the study team, periodically review safety and efficacy data; assess benefit-risk against prespecified boundaries; advise the Steering Committee to continue, modify, or stop the study. Board members are not involved in study conduct.
 
 | Name | Institution | Role |
 |:---|:---|:---:|
-| TBD | &mdash; | Chair |
-| TBD | &mdash; | Member (statistics) |
-| TBD | &mdash; | Member |
+| Ignacio Martin-Loeches | Ireland | Chair |
+| Longxiang Su | Peking Union Medical College Hospital | Member |
+| Xiaobo Yang | Union Hospital, Tongji Medical College, Huazhong University of Science and Technology (Wuhan Union) | Member |
 
-<div class="footnote-note">Note: committee rosters are reserved slots and will be updated once confirmed. For governance-related inquiries, please use the [Contact](contact.html) page.</div>
+<div class="footnote-note">Note: any roster changes will be published here as confirmed by the network management team. For governance-related inquiries, please use the [Contact](contact.html) page.</div>

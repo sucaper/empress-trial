@@ -54,9 +54,9 @@ Both the Chinese and English versions of the protocol are available for download
   </a>
 </div>
 
-## Study Team {#team}
+## Governance and Team {#team}
 
-This protocol was developed by 13 investigators from China, the United Kingdom, Chile, Mexico, and France. **Co-first authors**: Jing-chao Luo, Li Ma, Ming-hao Luo. **Corresponding authors**: Mei Meng, Eduardo Kattan, Sen Lu. The full list and affiliations are available on the [Members](members/index.html) page.
+The study is overseen by the network's [Steering Committee, Coordinating Committee, and Data Safety Monitoring Board](governance.html); committee rosters are available on the [Governance](../governance.html) page.
 
 ## Progress {#progress}
 
@@ -74,4 +74,4 @@ Publicly verifiable milestones, updated as the study progresses.
 
 ## Additional Materials
 
-The statistical analysis plan and interim reports will be published in the [Documents](documents.html) section. For collaboration or enrollment inquiries, please use the [Contact](contact.html) page.
+The statistical analysis plan and interim reports will be published in the [Documents](../documents.html) section. For collaboration or enrollment inquiries, please use the [Contact](../contact.html) page.

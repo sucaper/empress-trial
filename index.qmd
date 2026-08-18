@@ -3,8 +3,9 @@ title: "EMPRESS Research Network"
 lang: zh-CN
 ---
 
+<div class="lang-switch"><a href="en/index.html">English</a></div>
+
 <div class="hero">
-  <img src="images/logo.jpg" alt="EMPRESS Research Network Logo" class="hero-logo" />
   <h1 class="hero-title">EMPRESS Research Network</h1>
   <p class="hero-sub">
     以感染性休克与血管麻痹临床研究为核心的多中心科研协作网络<br/>
@@ -36,17 +37,17 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
 <div class="gov-grid">
   <div class="gov-card">
     <h3>指导委员会</h3>
-    <p>把握科学方向，审批方案修订与关键决策。</p>
+    <p>国内外专家 11 位，把握科学方向、审批方案修订与关键决策。</p>
     <p><a href="governance.html#steering">查看成员 →</a></p>
   </div>
   <div class="gov-card">
     <h3>协调委员会</h3>
-    <p>负责网络日常运营、中心协调与数据质量管理。</p>
+    <p>负责网络日常运营、中心协调与数据质量管理（含项目经理）。</p>
     <p><a href="governance.html#coordinating">查看成员 →</a></p>
   </div>
   <div class="gov-card">
     <h3>数据安全监查委员会</h3>
-    <p>独立监查研究安全性与有效性数据。</p>
+    <p>独立监查安全性与有效性数据，评估获益-风险。</p>
     <p><a href="governance.html#dsmb">查看成员 →</a></p>
   </div>
 </div>

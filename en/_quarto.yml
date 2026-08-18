@@ -1,30 +1,23 @@
 project:
   type: website
-  output-dir: _site
-  render:
-    - index.qmd
-    - about.qmd
-    - governance.qmd
-    - documents.qmd
-    - contact.qmd
-    - studies/empress.qmd
+  output-dir: ../_site/en
 
 website:
   title: "EMPRESS Research Network"
   navbar:
-    logo: images/logo.jpg
+    logo: ../images/logo.jpg
     left:
-      - text: "首页"
+      - text: "Home"
         href: index.qmd
-      - text: "关于"
+      - text: "About"
         href: about.qmd
-      - text: "研究"
+      - text: "Studies"
         href: studies/empress.qmd
-      - text: "治理"
+      - text: "Governance"
         href: governance.qmd
-      - text: "发布文件"
+      - text: "Documents"
         href: documents.qmd
-      - text: "联系"
+      - text: "Contact"
         href: contact.qmd
   page-footer:
     left: "© 2026 EMPRESS Research Network"
@@ -33,6 +26,6 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles/theme.scss]
-    css: styles/custom.css
+    theme: [cosmo, ../styles/theme.scss]
+    css: ../styles/custom.css
     toc: false

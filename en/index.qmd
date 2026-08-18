@@ -3,8 +3,9 @@ title: "EMPRESS Research Network"
 lang: en
 ---
 
+<div class="lang-switch"><a href="../index.html">中文</a></div>
+
 <div class="hero">
-  <img src="../images/logo.jpg" alt="EMPRESS Research Network Logo" class="hero-logo" />
   <h1 class="hero-title">EMPRESS Research Network</h1>
   <p class="hero-sub">
     A multicenter clinical research network focused on septic shock and vasoplegia<br/>
@@ -36,17 +37,17 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 <div class="gov-grid">
   <div class="gov-card">
     <h3>Steering Committee</h3>
-    <p>Provides scientific direction and approves protocol amendments and key decisions.</p>
+    <p>11 domestic and international experts providing scientific direction and approving key decisions.</p>
     <p><a href="governance.html#steering">View members &rarr;</a></p>
   </div>
   <div class="gov-card">
     <h3>Coordinating Committee</h3>
-    <p>Manages daily operations, site coordination, and data quality.</p>
+    <p>Manages daily operations, site coordination, and data quality (with a project manager).</p>
     <p><a href="governance.html#coordinating">View members &rarr;</a></p>
   </div>
   <div class="gov-card">
     <h3>Data Safety Monitoring Board</h3>
-    <p>Independently monitors safety and efficacy data.</p>
+    <p>Independently monitors safety and efficacy data and assesses benefit-risk.</p>
     <p><a href="governance.html#dsmb">View members &rarr;</a></p>
   </div>
 </div>

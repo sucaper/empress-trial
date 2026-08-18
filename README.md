@@ -6,22 +6,21 @@
 
 - **Quarto 网站**（本机 1.10.18；Cloudflare Pages 构建时在线安装）
 - **GitHub** 存源码 + **Cloudflare Pages** 免费托管
-- 中英双语：中文在根目录，英文在 `en/`；每页右上角语言切换按钮
+- **中英双语**：两个 Quarto 项目——中文项目在根目录（导航中文），英文项目在 `en/`（导航英文），各页面右上角/页内切换按钮互跳
+- Logo 位于导航栏左上方（`images/logo.jpg`）
 
 ## 目录结构
 
 ```
-_quarto.yml            # 站点配置（导航/页脚/主题）
+_quarto.yml            # 中文项目配置（导航/页脚/主题/logo）
 index.qmd              # 机构首页（中文）
 about.qmd              # 关于网络
-governance.qmd         # 治理架构：指导委员会/协调委员会/DSMB
+governance.qmd         # 治理架构：指导委员会/协调委员会/项目管理/DSMB
 studies/empress.qmd    # EMPRESS 研究详情
-members/               # 成员总览 + 个人主页（由脚本生成，勿手改）
 documents.qmd          # 发布文件（方案/SAP/中期报告/发表文献）
 contact.qmd            # 联系我们
-en/                    # 英文镜像（结构与中文一致）
-data/members.json      # 成员数据（编辑入口）
-scripts/build_members.py  # 成员页生成器
+en/_quarto.yml         # 英文项目配置（输出到 _site/en）
+en/                    # 英文页面镜像
 _components/           # 组件库（含使用说明）
 _admin/                # 记忆文件与编辑权限说明（不参与渲染）
 files/protocols/       # 方案 PDF（发布文件实际存放）
@@ -33,7 +32,6 @@ styles/                # 主题（theme.scss）与自定义样式（custom.css�
 ## 常用操作
 
 - 本地预览：`quarto render` 后打开 `_site/index.html`，或 `quarto preview`
-- 更新成员：改 `data/members.json` → `python scripts/build_members.py` → `quarto render`
 - 发布文件：文件放入 `files/` 对应目录 → 在 `documents.qmd` 登记 → 推送
 - 添加组件：见 `_components/README.md`
 - 编辑权限与红线：见 `_admin/编辑权限说明.md`
@@ -41,5 +39,5 @@ styles/                # 主题（theme.scss）与自定义样式（custom.css�
 ## Cloudflare Pages 构建配置
 
 - Build command：
-  `curl -sSL https://quarto.org/download/latest.tar.gz -o /tmp/quarto.tar.gz && mkdir -p /opt/quarto && tar -xzf /tmp/quarto.tar.gz -C /opt/quarto --strip-components=1 && export PATH=/opt/quarto/bin:$PATH && quarto render`
+  `curl -sSL https://quarto.org/download/latest.tar.gz -o /tmp/quarto.tar.gz && mkdir -p /opt/quarto && tar -xzf /tmp/quarto.tar.gz -C /opt/quarto --strip-components=1 && export PATH=/opt/quarto/bin:$PATH && quarto render && quarto render en`
 - Build output directory：`_site`

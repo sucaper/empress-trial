@@ -13,7 +13,7 @@ The EMPRESS Research Network is a clinical research network dedicated to **septi
 
 - **Lead institution**: Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital (University of Electronic Science and Technology of China); serves as sponsor and coordinating center
 - **Study centers**: more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs)
-- **International collaboration**: methodological collaboration with intensive care teams at Pontificia Universidad Católica de Chile (Glenn Hern&aacute;ndez, Eduardo Kattan) and Universit&eacute; Paris-Saclay (Jean-Louis Teboul), among others
+- **International collaboration**: the Steering Committee includes international members from the United Kingdom, France, Chile, Mexico, and Ireland (see [Governance](governance.html))
 - **Governance bodies**: Steering Committee, Coordinating Committee, Data Safety Monitoring Board (see [Governance](governance.html))
 
 ## Research Areas

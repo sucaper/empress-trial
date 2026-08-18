@@ -18,8 +18,8 @@
 
 | 组件 | 文件 | 说明 |
 |:---|:---|:---|
-| 成员卡片 | `member_card.html` | 成员列表卡片（生成器使用） |
 | 研究卡片 | `study_card.html` | 首页研究项目卡片 |
+| 治理卡片 | `gov_card.html` | 治理机构卡片 |
 | 时间线 | `timeline.html` | 里程碑时间线（li 结构参考） |
 | 语言切换 | `lang_switch.html` | 中英切换按钮（每页需手动指定对应页面链接） |
 | 下载按钮 | `btn_dl.html` | 文件下载按钮（primary/outline 两式） |
