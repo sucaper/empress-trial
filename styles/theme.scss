@@ -5,9 +5,16 @@ $navbar-bg: #ffffff;
 $navbar-fg: #0B2AC0;
 $navbar-hl: #0B2AC0;
 $body-bg: #ffffff;
-$body-color: #212529;
-$font-family-sans-serif: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$body-color: #2b2f36;
+$font-size-root: 16px;
+$line-height-base: 1.75;
+$font-family-sans-serif: "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif !default;
+$headings-font-family: "Georgia", "Times New Roman", "Noto Serif SC", "Songti SC", "SimSun", serif !default;
+$headings-font-weight: 700;
+$headings-color: #0B2AC0;
+$code-font-family: "Consolas", "SFMono-Regular", "Menlo", monospace !default;
 
 /*-- scss:rules --*/
-.navbar { border-bottom: 1px solid #e9ecef; }
+.navbar { border-bottom: 1px solid #e9ecef; box-shadow: 0 1px 8px rgba(11,42,192,.05); }
 .navbar-brand { font-weight: 700; color: #0B2AC0 !important; }
+.navbar .nav-link { font-weight: 500; }

@@ -46,4 +46,10 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 - **Longxiang Su** (Peking Union Medical College Hospital) &mdash; tissue perfusion monitoring and critical care informatics
 - **Xiaobo Yang** (Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan) &mdash; sepsis and severe infection
 
+## Participating Centers {#centers}
+
+The EMPRESS study is conducted at more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs). The list of participating centers and contact information will be published here once confirmed by the Coordinating Committee.
+
+- List of participating centers &mdash; to be announced
+
 <div class="footnote-note">Note: profiles are compiled from publicly available sources (as of August 2026). Any roster changes will be published here as confirmed by the network management team. For member-related inquiries, please use the [Contact](contact.html) page.</div>
