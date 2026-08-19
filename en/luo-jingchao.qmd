@@ -1,25 +1,43 @@
 ---
-title: "Jingchao Luo"
+title: "Jing-chao Luo"
 lang: en
 ---
 
 <div class="member-header">
-<div class="member-photo profile-photo"><img class="member-photo-img" src="../images/luo-jingchao.jpg" alt="Jingchao Luo" /></div>
 <div class="member-info">
-<h1 class="member-name">Jingchao Luo <span class="name-en">罗竞超</span></h1>
+<h1 class="member-name">Jing-chao Luo</h1>
 <p class="member-role">Associate Chief Physician &middot; Department of Critical Care Medicine, Sichuan Provincial People's Hospital</p>
 <p class="member-role">MD/PhD, Critical Care Medicine, Peking Union Medical College</p>
+<p class="member-role">Master's Supervisor, University of Electronic Science and Technology of China</p>
+<p class="member-email"><a href="mailto:sucapter@163.com">sucapter@163.com</a></p>
 <p class="member-affil">Steering Committee / Coordinating Committee member, EMPRESS Research Network</p>
 </div>
+<div class="member-photo profile-photo"><img class="member-photo-img" src="../images/luo-jingchao.jpg" alt="Jing-chao Luo" /></div>
 </div>
 
 ## Biography
 
-Jingchao Luo is an Associate Chief Physician in the Department of Critical Care Medicine at Sichuan Provincial People's Hospital and holds a doctorate in Critical Care Medicine from Peking Union Medical College. He has long worked on the frontline of critical care medicine, both clinically and in research, with a focus on septic shock and hemodynamics. He emphasizes the integration of clinical practice and basic research, and is committed to the care of critically ill patients and the exploration of clinical questions in critical care medicine.
+Jing-chao Luo is an Associate Chief Physician in the Department of Critical Care Medicine at Sichuan Provincial People's Hospital and holds a doctorate in Critical Care Medicine from Peking Union Medical College. He has long worked on the frontline of critical care medicine, both clinically and in research, with a focus on septic shock and hemodynamics. He emphasizes the integration of clinical practice and basic research, and is committed to the care of critically ill patients and the exploration of clinical questions in critical care medicine.
 
 ## Research Interests
 
 - Septic shock and hemodynamics
+- Big data analytics in critical care medicine
+
+## Education
+
+- **2021-06 &ndash; 2022-06**: Global Clinical Scholars Research Training, Harvard Medical School
+- **2014-08 &ndash; 2017-07**: PhD in Emergency Medicine, Peking Union Medical College
+- **2012-07 &ndash; 2014-07**: MSc in Critical Care Medicine, Southeast University
+- **2007-08 &ndash; 2012-06**: BSc in Clinical Medicine, Southeast University
+
+## Work Experience
+
+- **2025-09 &ndash; present**: Associate Chief Physician, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital
+- **2024-05 &ndash; 2025-08**: Attending Physician, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital
+- **2020-06 &ndash; 2024-04**: Attending Physician, Zhongshan Hospital, Fudan University
+- **2018-08 &ndash; 2020-06**: Physician, Zhongshan Hospital, Fudan University
+- **2017-08 &ndash; 2018-08**: Physician, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine
 
 ## Academic Appointments
 
@@ -28,6 +46,7 @@ Jingchao Luo is an Associate Chief Physician in the Department of Critical Care 
 
 ## Publications
 
-- [Google Scholar profile (publications)](https://scholar.google.com/citations?user=Zn0IYOMAAAAJ)
+- [Google Scholar profile](https://scholar.google.com/citations?user=Zn0IYOMAAAAJ)
+- [PubMed publications (Jing-chao Luo)](https://pubmed.ncbi.nlm.nih.gov/?term=Jing-chao+Luo%5Bauthor%5D&sort=date)
 
 <div class="footnote-note">Back to <a href="../index.html">EMPRESS Research Network</a> &middot; <a href="../members.html">Members</a></div>

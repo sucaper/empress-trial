@@ -135,3 +135,7 @@ blockquote { border-left: 4px solid #0B2AC0; background: #f4f6ff; padding: .8rem
 
 /* ===== 个人主页照片 ===== */
 .member-header .member-photo.profile-photo { width: 200px; aspect-ratio: 3/4; }
+
+
+/* ===== 个人主页头部：文字在左、照片在右 ===== */
+.member-header .member-info { flex: 1; }
