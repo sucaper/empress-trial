@@ -34,6 +34,11 @@ Septic shock remains one of the most lethal emergency and critical care conditio
 <tr><td>Ethics approval</td><td>Central ethics committee approval (No. 2025-583)</td></tr>
 </table>
 
+<figure>
+<img src="../../images/figure1.jpg" alt="EMPRESS study design schematic" class="study-figure" />
+<figcaption>Figure 1. EMPRESS study design schematic.</figcaption>
+</figure>
+
 ## Related Documents {#protocol}
 
 <ul class="file-list">

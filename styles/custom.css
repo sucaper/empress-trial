@@ -162,3 +162,9 @@ body:has(.member-header) header#title-block-header { display: none; }
 
 /* ===== 首页导航精简：仅保留 首页 与语言切换 ===== */
 body:has(.hero-tagline) .navbar-nav .nav-item:not(.lang-toggle-li):not(:first-child) { display: none; }
+
+
+/* ===== 研究示意图 ===== */
+.study-figure { max-width: 100%; height: auto; border: 1px solid #dee2e6; border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,.08); }
+figure { margin: 1.4rem auto; text-align: center; }
+figcaption { font-size: .88rem; color: #6c757d; margin-top: .5rem; }

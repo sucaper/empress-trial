@@ -34,6 +34,11 @@ lang: zh-CN
 <tr><td>伦理审批</td><td>中央伦理委员会批准（批准号 2025-583）</td></tr>
 </table>
 
+<figure>
+<img src="../images/figure1.jpg" alt="EMPRESS 研究设计示意图" class="study-figure" />
+<figcaption>图 1. EMPRESS 研究设计示意图</figcaption>
+</figure>
+
 ## 相关文件发布 {#protocol}
 
 <ul class="file-list">
