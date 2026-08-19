@@ -133,9 +133,24 @@ blockquote { border-left: 4px solid #0B2AC0; background: #f4f6ff; padding: .8rem
 .gov-card p { margin-bottom: .4rem; }
 
 
-/* ===== 个人主页照片 ===== */
-.member-header .member-photo.profile-photo { width: 200px; aspect-ratio: 3/4; }
-
-
-/* ===== 个人主页头部：文字在左、照片在右 ===== */
-.member-header .member-info { flex: 1; }
+/* ===== 个人主页头部卡片（学术名片式） ===== */
+body:has(.member-header) header#title-block-header { display: none; }
+.member-header {
+  display: flex;
+  gap: 2.2rem;
+  align-items: flex-start;
+  margin: 1.2rem 0 2.4rem;
+  padding: 2rem 2.2rem;
+  background: linear-gradient(135deg, #f4f6ff 0%, #ffffff 100%);
+  border: 1px solid #e3e8f7;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(11,42,192,.07);
+}
+.member-header .member-photo.profile-photo { width: 210px; aspect-ratio: 3/4; flex: none; margin: 0; }
+.member-photo-img { border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,.12); }
+.member-info { flex: 1; }
+.member-name { font-size: 2.3rem; font-weight: 700; color: #0B2AC0; margin: 0 0 .8rem; letter-spacing: .02em; }
+.member-role { font-size: 1.02rem; color: #3d4453; line-height: 1.75; margin: .22rem 0; }
+.member-email { margin: .4rem 0 0; }
+.member-email a { color: #0B2AC0; font-weight: 600; }
+.member-affil { font-size: .9rem; color: #6c757d; margin-top: .9rem; padding-top: .7rem; border-top: 1px dashed #d5ddf2; }
