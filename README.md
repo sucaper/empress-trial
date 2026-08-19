@@ -38,5 +38,5 @@ styles/                # 主题（theme.scss）与自定义样式（custom.css�
 ## Cloudflare Pages 构建配置
 
 - Build command：
-  `curl -sSL https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.18/quarto-1.10.18-linux-amd64.tar.gz -o ~/quarto.tar.gz && mkdir -p ~/quarto && tar -xzf ~/quarto.tar.gz -C ~/quarto --strip-components=1 && export PATH=~/quarto/bin:$PATH && quarto render && quarto render en`
+  `curl -sSL https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.18/quarto-1.10.18-linux-amd64.tar.gz -o ~/quarto.tar.gz && mkdir -p ~/quarto && tar -xzf ~/quarto.tar.gz -C ~/quarto --strip-components=1 && export PATH=~/quarto/bin:$PATH && quarto render && quarto render en && cp 6ffd11306a1a90cbf56022a7365c2a3c.txt _site/`
 - Build output directory：`_site`
