@@ -12,7 +12,6 @@ lang: en
 
 The EMPRESS Research Network is a multicenter, internationally collaborative clinical research network initiated by the Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, dedicated to improving the critical care of septic shock. The network's core mission is to conduct high-quality multicenter clinical trials, while also providing methodological support, data governance, and investigator training.
 
-[Learn more &rarr;](about.html)
 
 ## Studies
 

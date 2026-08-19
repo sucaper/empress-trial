@@ -18,7 +18,8 @@ window.addEventListener('DOMContentLoaded', function () {
       var ups = sub.indexOf('/') >= 0 ? '../'.repeat(sub.split('/').length) : '../';
       target = ups + sub;
     } else {
-      target = 'en/' + rel;
+      var dirs = rel.split('/').length - 1;
+      target = '../'.repeat(dirs) + 'en/' + rel;
     }
   } else {
     rel = path;
