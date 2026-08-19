@@ -40,6 +40,7 @@ lang: zh-CN
 <li><a href="../files/protocols/EMPRESS_protocol_zh.pdf">中文版研究方案（PDF）</a> —— EMPRESS 研究主方案（最终发表版）</li>
 <li><a href="../files/protocols/EMPRESS_protocol_en.pdf">英文版研究方案（PDF）</a> —— Scand J Trauma Resusc Emerg Med 2026;34:44 正式发表稿</li>
 <li><a href="https://doi.org/10.1186/s13049-026-01563-y" target="_blank" rel="noopener">方案在线原文</a> —— doi:10.1186/s13049-026-01563-y（开放获取，CC BY 4.0）</li>
+<li><a href="../files/DSMB_Charter.pdf">DSMB 章程（PDF）</a> —— 2026-07-18 发布</li>
 <li>统计分析计划（SAP）—— 待发布</li>
 <li>中期报告 —— 待发布</li>
 </ul>
@@ -53,13 +54,12 @@ lang: zh-CN
 以下为可公开查证的里程碑信息，将随研究推进持续更新。
 
 <ul class="timeline">
-<li><span class="tl-date">2025 年</span>中央伦理委员会批准（批准号 2025-583）<span class="tl-tag">已完成</span></li>
-<li><span class="tl-date">2025-11-12</span>在中国临床试验注册中心完成注册（ChiCTR2500112352）<span class="tl-tag">已完成</span></li>
-<li><span class="tl-date">2025-11-20</span>英文方案投稿《Scand J Trauma Resusc Emerg Med》<span class="tl-tag">已完成</span></li>
-<li><span class="tl-date">2026-01-19</span>方案被期刊接收<span class="tl-tag">已完成</span></li>
-<li><span class="tl-date">2026</span>英文方案正式发表（Scand J Trauma Resusc Emerg Med 2026;34:44，开放获取）<span class="tl-tag">已发表</span></li>
-<li><span class="tl-date">2026</span>多中心启动与受试者入组进行中<span class="tl-tag">进行中</span></li>
-<li><span class="tl-date">待更新</span>完成入组、结果发表<span class="tl-tag">规划中</span></li>
+<li><span class="tl-date">2026-07-18</span>发布 DSMB 章程<span class="tl-tag">已发布</span></li>
+<li><span class="tl-date">2026-04-07</span>正式启动受试者入组<span class="tl-tag">进行中</span></li>
+<li><span class="tl-date">2026-01-24</span>研究方案正式发表（PMID: 41580807）<span class="tl-tag">已发表</span></li>
+<li><span class="tl-date">2025-11-20</span>研究方案投稿《Scand J Trauma Resusc Emerg Med》杂志<span class="tl-tag">已完成</span></li>
+<li><span class="tl-date">2025-11-12</span>中国临床试验注册中心完成注册（ChiCTR2500112352）<span class="tl-tag">已完成</span></li>
+<li><span class="tl-date">2025-08-20</span>中央伦理委员会批准（批准号 2025-583）<span class="tl-tag">已完成</span></li>
 </ul>
 
 ## 更多资料

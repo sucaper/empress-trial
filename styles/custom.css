@@ -154,3 +154,7 @@ body:has(.member-header) header#title-block-header { display: none; }
 .member-email { margin: .4rem 0 0; }
 .member-email a { color: #0B2AC0; font-weight: 600; }
 .member-affil { font-size: .9rem; color: #6c757d; margin-top: .9rem; padding-top: .7rem; border-top: 1px dashed #d5ddf2; }
+
+
+/* ===== 主页标语（艺术字体） ===== */
+.hero-tagline { font-size: 1.85rem; font-family: "KaiTi", "STKaiti", "楷体", "Georgia", "Times New Roman", serif; color: #1d3a8f; letter-spacing: .1em; font-weight: 600; line-height: 1.6; margin: .6rem auto 0; }

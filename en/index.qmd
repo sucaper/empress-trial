@@ -5,7 +5,7 @@ lang: en
 
 <div class="hero">
 <h1 class="hero-title">EMPRESS Research Network</h1>
-<p class="hero-sub">Better Care for Septic Shock, More Lives Worth Living</p>
+<p class="hero-tagline">Better Care for Septic Shock, More Lives Worth Living</p>
 </div>
 
 ## About the Network
@@ -26,7 +26,7 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 
 <div class="gov-grid">
 <div class="gov-card">
-<h3>Steering Committee <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<h3>Steering Committee</h3>
 <p><strong>Domestic</strong></p>
 <ul>
 <li>Xiaobo Huang (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
@@ -46,7 +46,7 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 </ul>
 </div>
 <div class="gov-card">
-<h3>Coordinating Committee <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<h3>Coordinating Committee</h3>
 <ul>
 <li><a href="luo-jingchao.html">Jingchao Luo</a> (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
 <li>Sen Lu (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)</li>
@@ -54,7 +54,7 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 </ul>
 </div>
 <div class="gov-card">
-<h3>Data Safety Monitoring Board <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<h3>Data Safety Monitoring Board</h3>
 <ul>
 <li>Ignacio Martin-Loeches (Ireland &middot; St James's Hospital / Trinity College Dublin &middot; Chair)</li>
 <li>Longxiang Su (Peking Union Medical College Hospital, Chinese Academy of Medical Sciences)</li>
@@ -62,7 +62,7 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 </ul>
 </div>
 <div class="gov-card">
-<h3>Participating Centers <a class="edit-btn" href="https://github.com/sucaper/empress-trial/edit/main/en/members.qmd" target="_blank" rel="noopener">Edit</a></h3>
+<h3>Participating Centers</h3>
 <p>The EMPRESS study is conducted at more than 50 tertiary hospital centers across China (emergency, respiratory, medical, surgical, and other ICUs). The list of participating centers will be published here once confirmed by the Coordinating Committee.</p>
 </div>
 </div>
@@ -70,11 +70,12 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 ## Latest News
 
 <ul class="timeline">
-<li><span class="tl-date">2026</span>Multicenter site initiation and patient enrollment ongoing<span class="tl-tag">Ongoing</span></li>
-<li><span class="tl-date">2026</span>EMPRESS protocol published (SJTREM 2026;34:44, open access)<span class="tl-tag">Published</span></li>
-<li><span class="tl-date">2026-01-19</span>Protocol accepted by the journal<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2026-07-18</span>DSMB Charter released<span class="tl-tag">Released</span></li>
+<li><span class="tl-date">2026-04-07</span>Patient enrollment officially initiated<span class="tl-tag">Ongoing</span></li>
+<li><span class="tl-date">2026-01-24</span>Study protocol published (PMID: 41580807)<span class="tl-tag">Published</span></li>
+<li><span class="tl-date">2025-11-20</span>Protocol submitted to <em>Scand J Trauma Resusc Emerg Med</em><span class="tl-tag">Done</span></li>
 <li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
-<li><span class="tl-date">2025</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
+<li><span class="tl-date">2025-08-20</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
 </ul>
 
 ## Contact
