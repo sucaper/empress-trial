@@ -6,11 +6,12 @@ lang: en
 <div class="member-header">
 <div class="member-info">
 <h1 class="member-name">Jing-chao Luo</h1>
-<p class="member-role">Associate Chief Physician &middot; Department of Critical Care Medicine, Sichuan Provincial People's Hospital</p>
+<p class="member-role">Associate Chief Physician, Department of Critical Care Medicine, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital</p>
 <p class="member-role">MD/PhD, Critical Care Medicine, Peking Union Medical College</p>
 <p class="member-role">Master's Supervisor, University of Electronic Science and Technology of China</p>
-<p class="member-email"><a href="mailto:sucapter@163.com">sucapter@163.com</a></p>
-<p class="member-affil">Steering Committee / Coordinating Committee member, EMPRESS Research Network</p>
+<p class="member-role">Steering Committee / Coordinating Committee member, EMPRESS Study</p>
+<p class="member-role">Member, ANDROMEDA Research Network</p>
+<p class="member-email">Email: <a href="mailto:sucapter@163.com">sucapter@163.com</a></p>
 </div>
 <div class="member-photo profile-photo"><img class="member-photo-img" src="../images/luo-jingchao.jpg" alt="Jing-chao Luo" /></div>
 </div>
@@ -42,7 +43,6 @@ Jing-chao Luo is an Associate Chief Physician in the Department of Critical Care
 ## Academic Appointments
 
 - Youth Vice-Chair, Severe Microcirculation Professional Committee, Chinese Society of Microcirculation
-- Member, ANDROMEDA Research Network
 
 ## Publications
 
