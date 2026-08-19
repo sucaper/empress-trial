@@ -160,8 +160,10 @@ body:has(.member-header) header#title-block-header { display: none; }
 .hero-tagline { font-size: 1.85rem; font-family: "KaiTi", "STKaiti", "楷体", "Georgia", "Times New Roman", serif; color: #1d3a8f; letter-spacing: .1em; font-weight: 600; line-height: 1.6; margin: .6rem auto 0; }
 
 
-/* ===== 首页导航精简：仅保留 首页 与语言切换 ===== */
-body:has(.hero-tagline) .navbar-nav .nav-item:not(.lang-toggle-li):not(:first-child) { display: none; }
+/* ===== 导航精简（首页/EMPRESS研究页/个人主页）：仅保留 首页 与语言切换 ===== */
+body:has(.hero-tagline) .navbar-nav .nav-item:not(.lang-toggle-li):not(:first-child),
+body:has(.hero-sm) .navbar-nav .nav-item:not(.lang-toggle-li):not(:first-child),
+body:has(.member-header) .navbar-nav .nav-item:not(.lang-toggle-li):not(:first-child) { display: none; }
 
 
 /* ===== 研究示意图 ===== */
