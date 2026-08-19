@@ -76,7 +76,3 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 <li><span class="tl-date">2025-11-12</span>Registered with the Chinese Clinical Trial Registry (ChiCTR2500112352)<span class="tl-tag">Done</span></li>
 <li><span class="tl-date">2025-08-20</span>Central ethics committee approval (No. 2025-583)<span class="tl-tag">Done</span></li>
 </ul>
-
-## Contact
-
-For research collaboration, enrollment inquiries, or corrections, please contact us via the [Contact](contact.html) page.

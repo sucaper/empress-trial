@@ -76,7 +76,3 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
 <li><span class="tl-date">2025-11-12</span>中国临床试验注册中心完成注册（ChiCTR2500112352）<span class="tl-tag">已完成</span></li>
 <li><span class="tl-date">2025-08-20</span>中央伦理委员会批准（批准号 2025-583）<span class="tl-tag">已完成</span></li>
 </ul>
-
-## 联系我们
-
-如有研究合作、入组咨询或信息更正需求，欢迎通过[联系我们](contact.html)页面与网络秘书处或通讯作者取得联系。
