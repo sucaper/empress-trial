@@ -1,0 +1,33 @@
+---
+title: "罗竞超"
+lang: zh-CN
+---
+
+<div class="member-header">
+<div class="member-photo profile-photo"><img class="member-photo-img" src="images/luo-jingchao.jpg" alt="罗竞超" /></div>
+<div class="member-info">
+<h1 class="member-name">罗竞超 <span class="name-en">Jingchao Luo</span></h1>
+<p class="member-role">副主任医师 · 四川省人民医院 重症医学中心</p>
+<p class="member-role">北京协和医学院 重症医学专业 博士</p>
+<p class="member-affil">EMPRESS Research Network 指导委员会 / 协调委员会成员</p>
+</div>
+</div>
+
+## 个人简介
+
+罗竞超，四川省人民医院重症医学中心副主任医师，北京协和医学院重症医学专业博士。长期深耕重症医学临床与科研一线，主要聚焦感染性休克、血流动力学方向研究，注重临床实践与基础科研相结合，致力于危重患者的救治与重症医学相关临床问题探索。
+
+## 研究方向
+
+- 感染性休克及血流动力学
+
+## 学术任职
+
+- 中国微循环学会重症微循环专委会青年副主委
+- ANDROMEDA Research Network 成员
+
+## 作品
+
+- [Google Scholar 学术主页（作品列表）](https://scholar.google.com.hk/citations?user=Zn0IYOMAAAAJ)
+
+<div class="footnote-note">返回 [EMPRESS Research Network 主页](index.html) · [相关成员](members.html)</div>

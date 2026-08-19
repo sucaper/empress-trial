@@ -1,0 +1,33 @@
+---
+title: "Jingchao Luo"
+lang: en
+---
+
+<div class="member-header">
+<div class="member-photo profile-photo"><img class="member-photo-img" src="../images/luo-jingchao.jpg" alt="Jingchao Luo" /></div>
+<div class="member-info">
+<h1 class="member-name">Jingchao Luo <span class="name-en">罗竞超</span></h1>
+<p class="member-role">Associate Chief Physician &middot; Department of Critical Care Medicine, Sichuan Provincial People's Hospital</p>
+<p class="member-role">MD/PhD, Critical Care Medicine, Peking Union Medical College</p>
+<p class="member-affil">Steering Committee / Coordinating Committee member, EMPRESS Research Network</p>
+</div>
+</div>
+
+## Biography
+
+Jingchao Luo is an Associate Chief Physician in the Department of Critical Care Medicine at Sichuan Provincial People's Hospital and holds a doctorate in Critical Care Medicine from Peking Union Medical College. He has long worked on the frontline of critical care medicine, both clinically and in research, with a focus on septic shock and hemodynamics. He emphasizes the integration of clinical practice and basic research, and is committed to the care of critically ill patients and the exploration of clinical questions in critical care medicine.
+
+## Research Interests
+
+- Septic shock and hemodynamics
+
+## Academic Appointments
+
+- Youth Vice-Chair, Severe Microcirculation Professional Committee, Chinese Society of Microcirculation
+- Member, ANDROMEDA Research Network
+
+## Publications
+
+- [Google Scholar profile (publications)](https://scholar.google.com/citations?user=Zn0IYOMAAAAJ)
+
+<div class="footnote-note">Back to <a href="../index.html">EMPRESS Research Network</a> &middot; <a href="../members.html">Members</a></div>
