@@ -6,11 +6,9 @@ lang: zh-CN
 <div class="member-header">
 <div class="member-info">
 <h1 class="member-name">罗竞超</h1>
-<p class="member-role">四川省医学科学院·四川省人民医院 重症医学中心 副主任医师</p>
 <p class="member-role">北京协和医学院 重症医学专业 博士</p>
+<p class="member-role">四川省人民医院 重症医学中心 副主任医师</p>
 <p class="member-role">电子科技大学 硕士生导师</p>
-<p class="member-role">EMPRESS 研究指导委员会/协调委员会成员</p>
-<p class="member-role">ANDROMEDA 研究网络成员</p>
 <p class="member-email">邮箱：<a href="mailto:sucapter@163.com">sucapter@163.com</a></p>
 </div>
 <div class="member-photo profile-photo"><img class="member-photo-img" src="images/luo-jingchao.jpg" alt="罗竞超" /></div>
@@ -43,6 +41,8 @@ lang: zh-CN
 ## 学术任职
 
 - 中国微循环学会重症微循环专委会青年副主委
+- EMPRESS 研究指导委员会/协调委员会成员
+- ANDROMEDA 研究网络成员
 
 ## 著作
 
