@@ -1,6 +1,13 @@
 project:
   type: website
   output-dir: _site
+  # 搜索引擎收录文件：随渲染一并发布到 _site 根目录
+  resources:
+    - "robots.txt"
+    - "sitemap.xml"
+    - "404.html"
+    - "6ffd11306a1a90cbf56022a7365c2a3c.txt"
+    - "734b6caf8f93eddf535b1ba6dabf7c15.txt"
   render:
     - index.qmd
     - luo-jingchao.qmd

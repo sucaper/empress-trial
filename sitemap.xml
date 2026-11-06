@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://empress-trial.pages.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/about</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/studies/empress</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/studies/empress" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/studies/empress" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/studies/empress" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/members</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/members" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/members" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/members" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/contact</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/luo-jingchao</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/luo-jingchao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/luo-jingchao" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/luo-jingchao" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/en/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/en/" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/en/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/en/studies/empress</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/studies/empress" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/studies/empress" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/en/studies/empress" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/en/members</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/members" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/members" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/en/members" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/en/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://empress-trial.pages.dev/en/luo-jingchao</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://empress-trial.pages.dev/luo-jingchao" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://empress-trial.pages.dev/en/luo-jingchao" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://empress-trial.pages.dev/en/luo-jingchao" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

@@ -1,6 +1,7 @@
 ---
 title: "Jing-chao Luo"
 lang: en
+description-meta: "Jing-chao Luo, Associate Chief Physician in Critical Care Medicine at Sichuan Provincial People's Hospital, MD/PhD from Peking Union Medical College; research interests include septic shock, hemodynamics and critical care data science."
 ---
 
 <div class="member-header">

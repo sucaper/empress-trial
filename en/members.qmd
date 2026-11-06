@@ -1,6 +1,7 @@
 ---
 title: "Members"
 lang: en
+description-meta: "Members of the EMPRESS Research Network: Steering Committee, Coordinating Committee, Project Manager, Data Safety Monitoring Board and participating centers."
 ---
 
 The EMPRESS Research Network is governed by three bodies &mdash; the Steering Committee, the Coordinating Committee, and the Data Safety Monitoring Board (DSMB) &mdash; supported by a project manager.
@@ -36,7 +37,7 @@ The EMPRESS Research Network is governed by three bodies &mdash; the Steering Co
 
 ## Project Manager {#project-management}
 
-- **Zhaoying Li** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
+- **Dr. Rongmao Gao** (Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital)
 
 ## Data Safety Monitoring Board (DSMB) {#dsmb}
 

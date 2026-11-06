@@ -1,6 +1,7 @@
 ---
 title: "EMPRESS Research Network"
 lang: en
+description-meta: "The EMPRESS Research Network is a multicenter international clinical research network led by Sichuan Provincial People's Hospital, focused on improving critical care of septic shock. Its first study is the EMPRESS randomized controlled trial."
 ---
 
 <div class="hero">
@@ -69,6 +70,7 @@ The EMPRESS Research Network is a multicenter, internationally collaborative cli
 ## Latest News
 
 <ul class="timeline">
+<li><span class="tl-date">2026-11-06</span>82 patients enrolled; approximately half of the study sites initiated<span class="tl-tag">Ongoing</span></li>
 <li><span class="tl-date">2026-07-18</span>DSMB Charter released<span class="tl-tag">Released</span></li>
 <li><span class="tl-date">2026-04-07</span>Patient enrollment officially initiated<span class="tl-tag">Ongoing</span></li>
 <li><span class="tl-date">2026-01-24</span>Study protocol published (PMID: 41580807)<span class="tl-tag">Published</span></li>

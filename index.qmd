@@ -1,6 +1,7 @@
 ---
 title: "EMPRESS Research Network"
 lang: zh-CN
+description-meta: "EMPRESS Research Network 是由四川省医学科学院·四川省人民医院重症医学中心牵头的多中心国际协作临床研究网络，聚焦感染性休克重症救治改进，首个研究项目为 EMPRESS 多中心随机对照试验。"
 ---
 
 <div class="hero">
@@ -69,6 +70,7 @@ EMPRESS Research Network 是由四川省医学科学院·四川省人民医院�
 ## 最新动态
 
 <ul class="timeline">
+<li><span class="tl-date">2026-11-06</span>入组第 82 例，约半数研究中心已启动<span class="tl-tag">进行中</span></li>
 <li><span class="tl-date">2026-07-18</span>发布 DSMB 章程<span class="tl-tag">已发布</span></li>
 <li><span class="tl-date">2026-04-07</span>正式启动受试者入组<span class="tl-tag">进行中</span></li>
 <li><span class="tl-date">2026-01-24</span>研究方案正式发表（PMID: 41580807）<span class="tl-tag">已发表</span></li>

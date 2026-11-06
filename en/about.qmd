@@ -1,6 +1,7 @@
 ---
 title: "About the Network"
 lang: en
+description-meta: "About the EMPRESS Research Network: mission, governance and its focus on high-quality multicenter clinical trials in septic shock and vasoplegia."
 ---
 
 

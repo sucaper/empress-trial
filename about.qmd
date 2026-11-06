@@ -1,6 +1,7 @@
 ---
 title: "关于网络"
 lang: zh-CN
+description-meta: "关于 EMPRESS Research Network：研究网络定位、使命与治理架构，以高质量多中心临床试验为核心，聚焦感染性休克与血管麻痹的重症救治。"
 ---
 
 

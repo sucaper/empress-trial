@@ -1,6 +1,7 @@
 ---
 title: "相关成员"
 lang: zh-CN
+description-meta: "EMPRESS Research Network 相关成员：指导委员会、协调委员会、项目经理与数据安全监查委员会（DSMB）名单及参与中心。"
 ---
 
 EMPRESS Research Network 设指导委员会、协调委员会与数据安全监查委员会（DSMB）三个治理机构，并设项目经理负责日常项目管理。
@@ -36,7 +37,7 @@ EMPRESS Research Network 设指导委员会、协调委员会与数据安全监�
 
 ## 项目经理 {#project-management}
 
-- **李昭颖**（四川省医学科学院·四川省人民医院）
+- **高榕茂 医生**（四川省医学科学院·四川省人民医院）
 
 ## 数据安全监查委员会（DSMB） {#dsmb}
 

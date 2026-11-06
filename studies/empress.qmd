@@ -1,6 +1,7 @@
 ---
 title: "EMPRESS 研究"
 lang: zh-CN
+description-meta: "EMPRESS 研究方案：早期应用亚甲蓝改善依赖高剂量升压药支持的感染性休克患者病死率，多中心随机对照试验（566 例，注册号 ChiCTR2500112352），含研究设计、方案文件与研究里程碑。"
 ---
 
 
@@ -56,9 +57,10 @@ lang: zh-CN
 
 ## 研究进展 {#progress}
 
-以下为可公开查证的里程碑信息，将随研究推进持续更新。
+以下为研究里程碑与进展信息，将随研究推进持续更新。
 
 <ul class="timeline">
+<li><span class="tl-date">2026-11-06</span>入组第 82 例，约半数研究中心已启动<span class="tl-tag">进行中</span></li>
 <li><span class="tl-date">2026-07-18</span>发布 DSMB 章程<span class="tl-tag">已发布</span></li>
 <li><span class="tl-date">2026-04-07</span>正式启动受试者入组<span class="tl-tag">进行中</span></li>
 <li><span class="tl-date">2026-01-24</span>研究方案正式发表（PMID: 41580807）<span class="tl-tag">已发表</span></li>

@@ -1,6 +1,7 @@
 ---
 title: "EMPRESS Study"
 lang: en
+description-meta: "The EMPRESS trial protocol: early methylene blue for mortality reduction in high-dose vasopressor-dependent septic shock, a 566-patient multicenter randomized controlled trial (ChiCTR2500112352), with study design, documents and milestones."
 ---
 
 
@@ -56,9 +57,10 @@ The study is overseen by the network's [Steering Committee, Coordinating Committ
 
 ## Progress {#progress}
 
-Publicly verifiable milestones, updated as the study progresses.
+Study milestones and progress updates, revised as the trial proceeds.
 
 <ul class="timeline">
+<li><span class="tl-date">2026-11-06</span>82 patients enrolled; approximately half of the study sites initiated<span class="tl-tag">Ongoing</span></li>
 <li><span class="tl-date">2026-07-18</span>DSMB Charter released<span class="tl-tag">Released</span></li>
 <li><span class="tl-date">2026-04-07</span>Patient enrollment officially initiated<span class="tl-tag">Ongoing</span></li>
 <li><span class="tl-date">2026-01-24</span>Study protocol published (PMID: 41580807)<span class="tl-tag">Published</span></li>
