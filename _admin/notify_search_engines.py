@@ -15,7 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 KEY = "734b6caf8f93eddf535b1ba6dabf7c15"
 HOST = "empress-trial.pages.dev"
-SITEMAP = ROOT / "sitemap.xml"
+SITEMAP = ROOT / "sitemap-empress.xml"
 ENDPOINT = "https://api.indexnow.org/indexnow"
 
 

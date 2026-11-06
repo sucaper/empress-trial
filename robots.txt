@@ -4,4 +4,4 @@ Allow: /
 Disallow: /search.json
 Disallow: /site_libs/
 
-Sitemap: https://empress-trial.pages.dev/sitemap.xml
+Sitemap: https://empress-trial.pages.dev/sitemap-empress.xml

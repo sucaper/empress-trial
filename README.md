@@ -48,7 +48,8 @@ styles/                # 主题（theme.scss）与自定义样式（custom.css�
 | 文件 | 作用 |
 |---|---|
 | `robots.txt` | 允许抓取，并用 `Sitemap:` 声明站点地图 |
-| `sitemap.xml` | 手工维护的 12 个中英页面清单，含 `hreflang` 互指；**新增页面时必须同步加一条** |
+| `sitemap-empress.xml` | 手工维护的 12 个中英页面清单，含 `hreflang` 互指；**新增页面时必须同步加一条** |
+| `_redirects` | 把习惯性的 `/sitemap.xml` 地址重写到上面的文件，方便站长工具与搜索引擎默认探测 |
 | `404.html` | 修正 Cloudflare Pages 把不存在路径一律返回「200 + 首页」的问题，让未知路径返回真 404 |
 | `734b6caf8f93eddf535b1ba6dabf7c15.txt` | IndexNow key（内容 = 文件名），用于主动通知 Bing 等引擎 |
 | `_components/lang_toggle.html` 末尾 | 全站 head 注入 SEO meta；**站长验证标签占位在这里**，拿到验证码后填入 |

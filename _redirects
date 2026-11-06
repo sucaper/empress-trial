@@ -1,0 +1,3 @@
+# Quarto treats sitemap.xml as a managed output file and removes it during render.
+# Keep the conventional address working by rewriting it to our hand-maintained sitemap.
+/sitemap.xml  /sitemap-empress.xml  200
