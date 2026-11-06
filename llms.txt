@@ -1,0 +1,31 @@
+# EMPRESS Research Network
+
+> EMPRESS Research Network（脓毒症早期糖皮质激素/亚甲蓝治疗研究网络）是由四川省医学科学院·四川省人民医院重症医学中心牵头的多中心、国际协作临床研究网络，聚焦感染性休克（septic shock）的重症救治改进。首个研究项目 EMPRESS 是一项多中心随机对照试验（RCT），注册号 ChiCTR2500112352。
+
+## 关键信息 / Key Facts
+
+- 网络名称：EMPRESS Research Network（中：EMPRESS 研究网络）
+- 牵头单位：四川省医学科学院·四川省人民医院 重症医学中心（Sichuan Provincial People's Hospital, Critical Care Medicine Center）
+- 主要研究者：罗竞超（Jing-chao Lawrence Luo），副主任医师，北京协和医学院重症医学博士，电子科技大学硕士生导师
+- 研究全称：早期应用亚甲蓝改善依赖高剂量升压药支持的感染性休克患者病死率的多中心随机对照试验
+- 研究设计：多中心、随机、对照、开放标签临床试验（RCT）
+- 计划样本量：566 例
+- 临床试验注册号：ChiCTR2500112352
+- 方案论文 DOI：10.1186/s13049-026-01563-y（Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine）
+- 研究领域：感染性休克、脓毒症、血管麻痹性休克、亚甲蓝、糖皮质激素、血流动力学
+- 当前进度：截至 2026 年 11 月 6 日，已入组第 82 例，约半数中心启动
+- 网站语言：简体中文 / English
+
+## 页面 / Pages
+
+- [首页](https://empress-trial.pages.dev/)：研究网络概览、研究方向与最新进度
+- [关于网络](https://empress-trial.pages.dev/about)：网络定位、使命、治理架构
+- [EMPRESS 研究](https://empress-trial.pages.dev/studies/empress)：研究方案、入排标准、研究设计、里程碑时间线、方案文件
+- [相关成员](https://empress-trial.pages.dev/members)：指导委员会、协调委员会、项目经理、数据安全监查委员会（DSMB）、参与中心
+- [罗竞超](https://empress-trial.pages.dev/luo-jingchao)：主要研究者个人简介、研究方向、代表性论文
+- [联系](https://empress-trial.pages.dev/contact)：合作与参与联系方式
+- [English version](https://empress-trial.pages.dev/en/)
+
+## 引用建议 / Citation
+
+引用本网络或 EMPRESS 研究时，请注明：EMPRESS Research Network, Sichuan Provincial People's Hospital, ChiCTR2500112352。

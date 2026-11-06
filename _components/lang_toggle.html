@@ -43,12 +43,117 @@ window.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-<!-- ===== 搜索引擎收录设置（随 include-in-header 注入中英文全部页面）===== -->
+<!-- ===== 搜索引擎与 AI 检索设置（随 include-in-header 注入中英文全部页面）===== -->
+<!-- 站点验证：Google 用根目录 HTML 文件验证（google936a01c80ab0fda6.html），Bing 从 GSC 一键导入，
+     两者都不需要 meta 标签。请勿在此处留空的验证码占位，空值会让验证失败。 -->
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
 <meta property="og:site_name" content="EMPRESS Research Network" />
-<!-- 站长验证标签占位：拿到验证码后把下面两行的 content 填好并去掉外层注释。
-     Google 验证码来自 Search Console 的「HTML 标记」；
-     Bing 可从 Search Console 一键导入，若单独验证则用 msvalidate.01。
-<meta name="google-site-verification" content="GOOGLE_VERIFICATION_CODE" />
-<meta name="msvalidate.01" content="BING_VERIFICATION_CODE" />
--->
+<meta name="author" content="罗竞超 / Jing-chao Lawrence Luo" />
+<meta name="keywords" content="EMPRESS研究,脓毒症,感染性休克,亚甲蓝,糖皮质激素,多中心随机对照试验,重症医学,septic shock,sepsis,methylene blue,ChiCTR2500112352" />
+
+<!-- 结构化数据：让搜索引擎与 AI 直接读懂「这是什么机构、谁在做、做的什么研究」 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://empress-trial.pages.dev/#organization",
+      "name": "EMPRESS Research Network",
+      "alternateName": ["EMPRESS 研究网络", "EMPRESS 多中心临床研究网络"],
+      "url": "https://empress-trial.pages.dev/",
+      "logo": "https://empress-trial.pages.dev/images/logo.jpg",
+      "description": "由四川省医学科学院·四川省人民医院重症医学中心牵头的多中心、国际协作临床研究网络，聚焦感染性休克的重症救治改进。",
+      "parentOrganization": {
+        "@type": "Hospital",
+        "name": "四川省医学科学院·四川省人民医院 重症医学中心",
+        "alternateName": "Sichuan Provincial People's Hospital, Critical Care Medicine Center"
+      },
+      "foundingLocation": { "@type": "Place", "name": "中国 四川 成都" },
+      "knowsAbout": ["感染性休克", "脓毒症", "血管麻痹性休克", "亚甲蓝", "糖皮质激素", "血流动力学", "septic shock", "sepsis", "methylene blue"],
+      "member": { "@id": "https://empress-trial.pages.dev/luo-jingchao#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://empress-trial.pages.dev/luo-jingchao#person",
+      "name": "罗竞超",
+      "alternateName": ["Jing-chao Lawrence Luo", "Jingchao Luo"],
+      "jobTitle": "副主任医师",
+      "url": "https://empress-trial.pages.dev/luo-jingchao",
+      "affiliation": {
+        "@type": "Hospital",
+        "name": "四川省医学科学院·四川省人民医院 重症医学中心"
+      },
+      "alumniOf": [
+        { "@type": "CollegeOrUniversity", "name": "北京协和医学院" },
+        { "@type": "CollegeOrUniversity", "name": "电子科技大学" }
+      ],
+      "knowsAbout": ["感染性休克", "血流动力学", "重症医学大数据分析", "methylene blue", "septic shock"],
+      "worksFor": { "@id": "https://empress-trial.pages.dev/#organization" }
+    },
+    {
+      "@type": "MedicalTrial",
+      "@id": "https://empress-trial.pages.dev/studies/empress#trial",
+      "name": "EMPRESS 研究：早期应用亚甲蓝改善依赖高剂量升压药支持的感染性休克患者病死率的多中心随机对照试验",
+      "alternateName": "EMPRESS Trial",
+      "url": "https://empress-trial.pages.dev/studies/empress",
+      "identifier": "ChiCTR2500112352",
+      "description": "多中心、随机、对照临床试验，计划入组 566 例依赖高剂量升压药支持的感染性休克患者，评价早期应用亚甲蓝对病死率的影响。",
+      "healthCondition": { "@type": "MedicalCondition", "name": "感染性休克（septic shock）" },
+      "studySubject": { "@type": "Drug", "name": "亚甲蓝（Methylene Blue）" },
+      "sponsor": { "@id": "https://empress-trial.pages.dev/#organization" }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.1186/s13049-026-01563-y",
+      "name": "EMPRESS 研究方案：早期亚甲蓝治疗感染性休克的多中心随机对照试验",
+      "identifier": "doi:10.1186/s13049-026-01563-y",
+      "isPartOf": { "@type": "Periodical", "name": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine" },
+      "author": { "@id": "https://empress-trial.pages.dev/luo-jingchao#person" }
+    }
+  ]
+}
+</script>
+
+<!-- 规范网址（canonical）与语言版本（hreflang）按当前页面路径自动补全 -->
+<script>
+(function () {
+  if (location.protocol === 'file:') return;
+  var p = location.pathname;
+  if (p.slice(-11) === '/index.html') p = p.slice(0, -10);
+  else if (p.slice(-5) === '.html') p = p.slice(0, -5);
+  if (p === '') p = '/';
+  var base = location.origin;
+  var isEn = /^\/en(\/|$)/.test(p);
+  var zhPath = isEn ? (p.replace(/^\/en/, '') || '/') : p;
+  var enPath = isEn ? p : (p === '/' ? '/en/' : '/en' + p);
+  var zhUrl = base + zhPath, enUrl = base + enPath, self = base + p;
+
+  function addLink(rel, href, hreflang) {
+    var l = document.createElement('link');
+    l.rel = rel; l.href = href;
+    if (hreflang) l.hreflang = hreflang;
+    document.head.appendChild(l);
+  }
+  addLink('canonical', self);
+  addLink('alternate', zhUrl, 'zh-CN');
+  addLink('alternate', enUrl, 'en');
+  addLink('alternate', zhUrl, 'x-default');
+
+  function addMeta(prop, val, isName) {
+    if (!val) return;
+    var m = document.createElement('meta');
+    m.setAttribute(isName ? 'name' : 'property', prop);
+    m.content = val;
+    document.head.appendChild(m);
+  }
+  var d = document.querySelector('meta[name="description"]');
+  addMeta('og:title', document.title);
+  addMeta('og:description', d ? d.content : '');
+  addMeta('og:url', self);
+  addMeta('og:type', 'website');
+  addMeta('twitter:card', 'summary', true);
+  addMeta('twitter:title', document.title, true);
+  addMeta('twitter:description', d ? d.content : '', true);
+})();
+</script>

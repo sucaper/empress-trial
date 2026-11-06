@@ -4,6 +4,7 @@ project:
   # 搜索引擎收录文件：随渲染一并发布到 _site 根目录
   resources:
     - "robots.txt"
+    - "llms.txt"
     - "sitemap-empress.xml"
     - "_redirects"
     - "404.html"
