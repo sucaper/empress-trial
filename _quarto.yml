@@ -9,6 +9,7 @@ project:
     - "404.html"
     - "6ffd11306a1a90cbf56022a7365c2a3c.txt"
     - "734b6caf8f93eddf535b1ba6dabf7c15.txt"
+    - "google936a01c80ab0fda6.html"
   render:
     - index.qmd
     - luo-jingchao.qmd
